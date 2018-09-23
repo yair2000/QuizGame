@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:text="Ranking Page"
         android:textSize="30sp"
-        app:cardBackgroundColor="#26ff00"
+        app:cardBackgroundColor="#8f9a8d"
         app:cardElevation="4dp">
 
         <LinearLayout
