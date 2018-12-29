@@ -1,0 +1,439 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "http://www.strangelist.com/wp-content/uploads/2017/03/top-10-most-anticipated-animes-e1488847292163.jpg",
+      "Name" : "Anime"
+    },
+    "02" : {
+      "Image" : "https://i.kinja-img.com/gawker-media/image/upload/t_original/trtf0xjhrgyczwizxept.jpg",
+      "Name" : "Gaming"
+    },
+    "03" : {
+      "Image" : "https://techcrunch.com/wp-content/uploads/2016/05/shutterstock_229183180.jpg",
+      "Name" : "Smartphones"
+    },
+    "04" : {
+      "Image" : "https://images.template.net/wp-content/uploads/2017/02/31090553/100-logos2.jpg",
+      "Name" : "Companies"
+    }
+  },
+  "Questions" : {
+    "01" : {
+      "AnswerA" : "1998",
+      "AnswerB" : "2000",
+      "AnswerC" : "1986",
+      "AnswerD" : "1990",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "1986",
+      "IsImageQuestion" : "false",
+      "Question" : "In what year Dragonball aired in Japan?"
+    },
+    "02" : {
+      "AnswerA" : "A young delinquent with a silly haircut",
+      "AnswerB" : "A 10 year-old douchbag",
+      "AnswerC" : "Massive massacres",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "None of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the plot of Pokemon?"
+    },
+    "03" : {
+      "AnswerA" : "Yoshihiro Togashi",
+      "AnswerB" : "Masashi Kishimoto",
+      "AnswerC" : "Osamu Tezuka",
+      "AnswerD" : "Yoko Kamio",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Yoshihiro Togashi",
+      "IsImageQuestion" : "false",
+      "Question" : "Who created Yu Yu Hakusho?"
+    },
+    "04" : {
+      "AnswerA" : "Daijiro Ohara",
+      "AnswerB" : "Masao Sato",
+      "AnswerC" : "Senbei Norimaki",
+      "AnswerD" : "Jimmy Kudo",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Jimmy Kudo",
+      "IsImageQuestion" : "true",
+      "Question" : "http://4.bp.blogspot.com/-kpO9VavqloI/U9nSSmwKpiI/AAAAAAAAACY/Q2ACHXl0CPo/s1600/3278747-dc-detective-conan-17352255-857-933.jpg"
+    },
+    "05" : {
+      "AnswerA" : "Kyoya Hibari",
+      "AnswerB" : "Kagami Hiiragi",
+      "AnswerC" : "Tsunayoshi Sawada",
+      "AnswerD" : "Roronoa Zoro",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Tsunayoshi Sawada",
+      "IsImageQuestion" : "false",
+      "Question" : "Who's the main character in Katekyo Hitman Reborn?"
+    },
+    "06" : {
+      "AnswerA" : "A famous anime critic",
+      "AnswerB" : "An anime director",
+      "AnswerC" : "A famous toy in most animes",
+      "AnswerD" : "Group of anime creators",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Group of anime creators",
+      "IsImageQuestion" : "false",
+      "Question" : "Who's Clamp?"
+    },
+    "07" : {
+      "AnswerA" : "Konata Izumi",
+      "AnswerB" : "Ryunosuke Umemiya",
+      "AnswerC" : "Kimihiro Watanuki",
+      "AnswerD" : "Manjome Inshu",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Konata Izumi",
+      "IsImageQuestion" : "true",
+      "Question" : "https://www.anime-planet.com/images/characters/konata-izumi-520.jpg"
+    },
+    "08" : {
+      "AnswerA" : "Kai",
+      "AnswerB" : "Ryunosuke Umemiya",
+      "AnswerC" : "Astral",
+      "AnswerD" : "Guts",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Guts",
+      "IsImageQuestion" : "true",
+      "Question" : "https://vignette.wikia.nocookie.net/vsbattles/images/5/59/Guts-0.png"
+    },
+    "09" : {
+      "AnswerA" : "Same number of volumes",
+      "AnswerB" : "Same publisher",
+      "AnswerC" : "Same creator",
+      "AnswerD" : "Answers B and C",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Answers B and C",
+      "IsImageQuestion" : "false",
+      "Question" : "What the Animes Inuyasha and Ranma 1/2 have in common?"
+    },
+    "10" : {
+      "AnswerA" : "Shounen",
+      "AnswerB" : "Shojo",
+      "AnswerC" : "Hentai",
+      "AnswerD" : "Seinen",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Shojo",
+      "IsImageQuestion" : "false",
+      "Question" : "What the demographic of the franchise Pretty Cure?"
+    },
+    "11" : {
+      "AnswerA" : "Nintendo Gameboy",
+      "AnswerB" : "TV Tennis Electrotennis",
+      "AnswerC" : "Atari ST",
+      "AnswerD" : "Color TV-Game series",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Atari ST",
+      "IsImageQuestion" : "true",
+      "Question" : "http://www.gametronik.com/site/rubriques/atari_st/index.jpg"
+    },
+    "12" : {
+      "AnswerA" : "Color TV-Game series",
+      "AnswerB" : "Super Famicom",
+      "AnswerC" : "Game Boy",
+      "AnswerD" : "All of them",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "All of them",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these are Nintendo's consoles?"
+    },
+    "13" : {
+      "AnswerA" : "Same animation staff",
+      "AnswerB" : "Same graphic designers",
+      "AnswerC" : "Constant crossovers",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "None of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What the creators of Need For Speed and The Sims have in common?"
+    },
+    "14" : {
+      "AnswerA" : "Paris",
+      "AnswerB" : "Venice",
+      "AnswerC" : "Old Eygpt",
+      "AnswerD" : "Holy Land",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Old Eygpt",
+      "IsImageQuestion" : "true",
+      "Question" : "http://baby-mama58.ru/thumbs/2017/bayek_assassins_creed_origins_4k_8k-t2.jpg"
+    },
+    "15" : {
+      "AnswerA" : "November 2000",
+      "AnswerB" : "October 2000",
+      "AnswerC" : "March 2002",
+      "AnswerD" : "July 2001",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "November 2000",
+      "IsImageQuestion" : "true",
+      "Question" : "https://c.tribune.com.pk/2017/07/1459870-maxresdefault-1500276457-261-640x480.jpg"
+    },
+    "16" : {
+      "AnswerA" : "Nintendo 3DS",
+      "AnswerB" : "Nintendo Switch",
+      "AnswerC" : "Nintendo Wii",
+      "AnswerD" : "Nintendo Wii U",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Nintendo Wii",
+      "IsImageQuestion" : "true",
+      "Question" : "https://nicoblog.org/wp-content/uploads/2016/04/pokemon-battle-revolution-screeshot-4.jpg"
+    },
+    "17" : {
+      "AnswerA" : "Need For Speed Carbon",
+      "AnswerB" : "The Sims 3 & The Sims 4",
+      "AnswerC" : "Getting Over It with Bennett Foddy",
+      "AnswerD" : "All of them",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "All of them",
+      "IsImageQuestion" : "false",
+      "Question" : "In this question there are 4 games. Which one can run on apple computers?"
+    },
+    "18" : {
+      "AnswerA" : "EA Games",
+      "AnswerB" : "Valve",
+      "AnswerC" : "Capcom",
+      "AnswerD" : "Bandai",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Capcom",
+      "IsImageQuestion" : "false",
+      "Question" : "Who developed the Devil May Cry series?"
+    },
+    "19" : {
+      "AnswerA" : "Xbox 360",
+      "AnswerB" : "Sony Playstion 2",
+      "AnswerC" : "Sony Playstion 4",
+      "AnswerD" : "Xbox",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Sony Playstion 4",
+      "IsImageQuestion" : "true",
+      "Question" : "https://i.ebayimg.com/images/g/LaYAAOSwRFFZlY-a/s-l300.jpg"
+    },
+    "20" : {
+      "AnswerA" : "Canon",
+      "AnswerB" : "Leica",
+      "AnswerC" : "Kodak",
+      "AnswerD" : "Kinect",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Kinect",
+      "IsImageQuestion" : "false",
+      "Question" : "What type of camera the Xbox One has?"
+    },
+    "21" : {
+      "AnswerA" : "Sony Xperia E5",
+      "AnswerB" : "Sony Xperia X",
+      "AnswerC" : "Sony Xperia M5",
+      "AnswerD" : "Sony Xperia Z5",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Sony Xperia E5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn2.gsmarena.com/vv/pics/sony/sony-xperia-e5r.jpg"
+    },
+    "22" : {
+      "AnswerA" : "HTC Primo",
+      "AnswerB" : "Samsung Nexus S",
+      "AnswerC" : "Meizu MX2",
+      "AnswerD" : "Black 1X",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Samsung Nexus S",
+      "IsImageQuestion" : "true",
+      "Question" : "https://techcrunch.com/wp-content/uploads/2010/12/nexuss.jpg?w=350"
+    },
+    "23" : {
+      "AnswerA" : "Intel i3-3220",
+      "AnswerB" : "Kirin 970",
+      "AnswerC" : "A6",
+      "AnswerD" : "Snapdragon 210",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Snapdragon 210",
+      "IsImageQuestion" : "false",
+      "Question" : "What processor the Tempo X has?"
+    },
+    "24" : {
+      "AnswerA" : "Lee Kun-hee",
+      "AnswerB" : "Pete Lau & Carl Pei",
+      "AnswerC" : "Instituto Nacional de Industria",
+      "AnswerD" : "Koo In-hwoi",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Pete Lau & Carl Pei",
+      "IsImageQuestion" : "false",
+      "Question" : "Who are the founders of OnePlus?"
+    },
+    "25" : {
+      "AnswerA" : "K6",
+      "AnswerB" : "Lemon 3",
+      "AnswerC" : "Liquid Z530",
+      "AnswerD" : "K5 play",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "K5 play",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn.pricekart.com/mobile/lenovo-k5-play.jpg"
+    },
+    "26" : {
+      "AnswerA" : "Huawei Enjoy 6s",
+      "AnswerB" : "BLU S1",
+      "AnswerC" : "Samsung Galaxy J1",
+      "AnswerD" : "Vivo V5",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Vivo V5",
+      "IsImageQuestion" : "true",
+      "Question" : "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Vivo_V5/Vivo_V5_L_1.jpg"
+    },
+    "27" : {
+      "AnswerA" : "LG G4",
+      "AnswerB" : "LG Nexus 5",
+      "AnswerC" : "LG G Vista 2",
+      "AnswerD" : "LG G Pro",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "LG G Vista 2",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn2.gsmarena.com/vv/pics/lg/lg-g-vista-2-1.jpg"
+    },
+    "28" : {
+      "AnswerA" : "Samsung Galaxy A8",
+      "AnswerB" : "LG Q8",
+      "AnswerC" : "Pocophone F1",
+      "AnswerD" : "Honor Magic 2",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Honor Magic 2",
+      "IsImageQuestion" : "true",
+      "Question" : "https://static.toiimg.com/thumb/msid-65623234,width-220,resizemode-4/Honor-Magic-2.jpg"
+    },
+    "29" : {
+      "AnswerA" : "Samsung",
+      "AnswerB" : "LG",
+      "AnswerC" : "Huawei",
+      "AnswerD" : "HTC",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "HTC",
+      "IsImageQuestion" : "false",
+      "Question" : "Who Created the first Nexus smartphone?"
+    },
+    "30" : {
+      "AnswerA" : "A sub-brand of Google",
+      "AnswerB" : "Android custom roms",
+      "AnswerC" : "An indian Android Smartphone",
+      "AnswerD" : "An unmodified Android OS",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "An unmodified Android OS",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Android One?"
+    },
+    "31" : {
+      "AnswerA" : "Smartphones",
+      "AnswerB" : "Televisions",
+      "AnswerC" : "Washing Machines",
+      "AnswerD" : "All of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What are Samsung's products?"
+    },
+    "32" : {
+      "AnswerA" : "IBM",
+      "AnswerB" : "International Busters Manufacturers",
+      "AnswerC" : "Inner Business Masters",
+      "AnswerD" : "Ivory Blenders Masters",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "IBM",
+      "IsImageQuestion" : "true",
+      "Question" : "https://i.pinimg.com/originals/1f/c3/e2/1fc3e2015c707682ee226f86a46cb4f0.jpg"
+    },
+    "33" : {
+      "AnswerA" : "Sports Drink",
+      "AnswerB" : "Cola",
+      "AnswerC" : "Juice",
+      "AnswerD" : "Water",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Cola",
+      "IsImageQuestion" : "true",
+      "Question" : "http://www.sigmaaviationservices.com/wp-content/uploads/2015/09/korean-air.png"
+    },
+    "34" : {
+      "AnswerA" : "Hit Points",
+      "AnswerB" : "Hammer Ponys",
+      "AnswerC" : "Hewlett Packard",
+      "AnswerD" : "Health Points",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Hewlett Packard",
+      "IsImageQuestion" : "false",
+      "Question" : "What HP stands for?"
+    },
+    "35" : {
+      "AnswerA" : "Televisions",
+      "AnswerB" : "Walkman",
+      "AnswerC" : "Sony Playstion",
+      "AnswerD" : "All of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What are Sony Corporation's products?"
+    },
+    "36" : {
+      "AnswerA" : "Cleaning Services",
+      "AnswerB" : "Toiletries",
+      "AnswerC" : "Computing",
+      "AnswerD" : "Video Consoles",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Toiletries",
+      "IsImageQuestion" : "true",
+      "Question" : "https://www.clipartmax.com/png/middle/75-758757_bird-birds-dove-doves-flight-fly-flying-peace-advertising.png"
+    },
+    "37" : {
+      "AnswerA" : "Purchased by Intel",
+      "AnswerB" : "An Israeli Company",
+      "AnswerC" : "Mobile Company",
+      "AnswerD" : "Answers A and B",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Answers A and B",
+      "IsImageQuestion" : "true",
+      "Question" : "https://www.mobileye.com/he-il/files/2016/08/128803.jpg"
+    },
+    "38" : {
+      "AnswerA" : "Bullies",
+      "AnswerB" : "Brooklyn Masters",
+      "AnswerC" : "Red Masters",
+      "AnswerD" : "Beats",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Beats",
+      "IsImageQuestion" : "true",
+      "Question" : "https://seeklogo.com/images/B/beats-by-dr-dre-logo-A9F9E26136-seeklogo.com.png"
+    },
+    "39" : {
+      "AnswerA" : "Sun Microsystems",
+      "AnswerB" : "Programming Language",
+      "AnswerC" : "Oracle",
+      "AnswerD" : "They are all related to this logo",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "They are all related to this logo",
+      "IsImageQuestion" : "true",
+      "Question" : "https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg"
+    },
+    "40" : {
+      "AnswerA" : "Sports Cars",
+      "AnswerB" : "Germany",
+      "AnswerC" : "Phones",
+      "AnswerD" : "Answers A & B",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Answers A & B",
+      "IsImageQuestion" : "true",
+      "Question" : "https://noticias.coches.com/wp-content/uploads/2014/07/BMW-Audi-Mercedes.jpg"
+    }
+  },
+  "Users" : {
+    "Androidking" : {
+      "email" : "nicoak@gmail.com",
+      "password" : "nicolas",
+      "username" : "Androidking"
+    },
+    "Mor" : {
+      "email" : "morbc@gmail.com",
+      "password" : "bitcoin",
+      "username" : "Mor"
+    },
+    "yairnet92" : {
+      "email" : "yairnet92@gmail.com",
+      "password" : "mega123",
+      "username" : "yairnet92"
+    }
+  }
+}
