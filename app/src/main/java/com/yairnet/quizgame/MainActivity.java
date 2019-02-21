@@ -126,8 +126,7 @@ public class MainActivity extends AppCompatActivity
                     if(!un.isEmpty()){ // If the username exists or not
 
                         if((pwd.equals(login.getPassword()))){ // If the password is correct or not
-                            //Toast.makeText(MainActivity.this, "Logged In", Toast.LENGTH_SHORT).show();
-
+                        
                             // Showing the "HomeActivity.class" with its "activity_home.xml"
                             Intent homeActivity = new Intent(MainActivity.this, HomeActivity.class);
                             Common.currentUser = login;
