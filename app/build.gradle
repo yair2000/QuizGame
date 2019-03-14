@@ -24,7 +24,7 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui-database:1.2.0' // Firebase UI library
     implementation 'com.squareup.picasso:picasso:2.5.2' // Picasso library
     implementation 'com.google.firebase:firebase-core:16.0.7'
-    implementation 'com.google.firebase:firebase-database:16.0.6'
+    implementation 'com.google.firebase:firebase-database:16.1.0'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     implementation 'com.android.support:cardview-v7:28.0.0'
     implementation 'com.android.support:design:28.0.0'
