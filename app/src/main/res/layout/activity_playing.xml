@@ -18,8 +18,8 @@
         android:id="@+id/question_text"
         android:gravity="center"
         android:visibility="visible"
-        android:textColor="@mipmap/ic_launcher"
         android:textSize="20sp"
+        android:textColor="@android:color/black"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
@@ -54,7 +54,8 @@
                     android:gravity="center_horizontal"
                     android:textColor="@mipmap/ic_launcher"
                     android:text="0"
-                    android:textSize="30sp"/>
+                    android:textSize="30sp"
+                    android:textColor="@android:color/black"/>
 
                 <TextView
                     android:id="@+id/totalQuestionTxt"
@@ -63,8 +64,9 @@
                     android:layout_weight="1"
                     android:gravity="center_horizontal"
                     android:textColor="@mipmap/ic_launcher"
-                    android:text="1/10"
-                    android:textSize="30sp"/>
+                    android:text="0"
+                    android:textSize="30sp"
+                    android:textColor="@android:color/black"/>
 
             </LinearLayout>
 
