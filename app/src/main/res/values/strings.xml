@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">Multi Quiz</string>
+    <string name="app_name">MTRIVIA</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="ranking_page">Ranking Page</string>
     <string name="sign_in">Sign In</string>
     <string name="sign_up">Sign Up</string>
     <string name="register">Register</string>
     <string name="cancel">Cancel</string>
+    <string name="begin">Begin</string>
 </resources>
