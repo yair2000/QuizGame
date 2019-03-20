@@ -118,7 +118,107 @@
       "IsImageQuestion" : "false",
       "Question" : "What the demographic of the franchise Pretty Cure?"
     },
-    "11" : {
+	"11" : {
+      "AnswerA" : "Esdeath",
+      "AnswerB" : "Komagata Yumi",
+      "AnswerC" : "Kagura",
+      "AnswerD" : "Crocodine",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Esdeath",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2Fmaxresdefault.jpg?alt=media&token=3cb6936c-4451-4639-bc1e-fa7af2aca4b8"
+    },
+	"12" : {
+      "AnswerA" : "Yoko Kamio",
+      "AnswerB" : "George Morikawa",
+      "AnswerC" : "Hirohiko Araki",
+      "AnswerD" : "Osamu Tezuka",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Osamu Tezuka",
+      "IsImageQuestion" : "false",
+      "Question" : "Who created Astro Boy?"
+    },
+	"13" : {
+      "AnswerA" : "33 Million",
+      "AnswerB" : "26.5 Million",
+      "AnswerC" : "41 Million",
+      "AnswerD" : "19 Million",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "26.5 Million",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FAsari-chan.jpg?alt=media&token=12b0d800-9848-46ab-8a74-bc66c7c3b90c"
+    },
+	"14" : {
+      "AnswerA" : "Xing Huo",
+      "AnswerB" : "Takeshi Masu",
+      "AnswerC" : "Fei-Wang Reed",
+      "AnswerD" : "Yu Kanda",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Fei-Wang Reed",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FFei_wang_reed_render.png?alt=media&token=e6d8ec0d-3fb1-43c7-9441-9cba8e1c118b"
+    },
+	"15" : {
+      "AnswerA" : "Killua Zoldyck",
+      "AnswerB" : "Gon Freecss",
+      "AnswerC" : "Yoshimura",
+      "AnswerD" : "Kaya Irimi",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Gon Freecss",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FGon-2011.png?alt=media&token=3276db9e-f133-45e6-bf79-9f7e95149c51"
+    },
+	"16" : {
+      "AnswerA" : "Griffith",
+      "AnswerB" : "Hiroshi Kato",
+      "AnswerC" : "Ken Kaneki",
+      "AnswerD" : "Kazumi Araiwa",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Ken Kaneki",
+      "IsImageQuestion" : "false",
+      "Question" : "Who is the main character in Tokyo Ghoul?"
+    },
+	"17" : {
+      "AnswerA" : "Hiro Mashima",
+      "AnswerB" : "Takehiko Inoue",
+      "AnswerC" : "Mitsuru Adachi",
+      "AnswerD" : "Hajime Isayama",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Hajime Isayama",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FHajime_Isayama.png?alt=media&token=ffd70a81-0308-4e6c-beb0-ba72d8111c9a"
+    },
+	"18" : {
+      "AnswerA" : "Katsuki Bakugo",
+      "AnswerB" : "Escanor",
+      "AnswerC" : "Kohaku",
+      "AnswerD" : "Riko Akasaka",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Katsuki Bakugo",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FKatsuki_Bakugo_School_Uniform_Full_Body.png?alt=media&token=1ca4bdc0-d6e1-4fdf-b9e2-fb376776dd72"
+    },
+	"19" : {
+      "AnswerA" : "A special type of basket",
+      "AnswerB" : "A Divine Place",
+      "AnswerC" : "A 16-year old teenager",
+      "AnswerD" : "A type of sport in Hawaii",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "A 16-year old teenager",
+      "IsImageQuestion" : "false",
+      "Question" : "What revolves around Fruits Basket?"
+    },
+	"20" : {
+      "AnswerA" : "Hokuto Shinken",
+      "AnswerB" : "Kiba Inuzuka",
+      "AnswerC" : "Amy Yoshida",
+      "AnswerD" : "Hideyuki Makimura",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Kiba Inuzuka",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of this characters are in Naruto?"
+    },
+    "21" : {
       "AnswerA" : "Nintendo Gameboy",
       "AnswerB" : "TV Tennis Electrotennis",
       "AnswerC" : "Atari ST",
@@ -128,7 +228,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Findex.jpg?alt=media&token=8bec17d9-7c71-41f6-a08e-d75cf7b367e5"
     },
-    "12" : {
+    "22" : {
       "AnswerA" : "Color TV-Game series",
       "AnswerB" : "Super Famicom",
       "AnswerC" : "Game Boy",
@@ -138,7 +238,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Which of these are Nintendo's consoles?"
     },
-    "13" : {
+    "23" : {
       "AnswerA" : "Same animation staff",
       "AnswerB" : "Same graphic designers",
       "AnswerC" : "Constant crossovers",
@@ -148,7 +248,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What the creators of Need For Speed and The Sims have in common?"
     },
-    "14" : {
+    "24" : {
       "AnswerA" : "Paris",
       "AnswerB" : "Venice",
       "AnswerC" : "Old Eygpt",
@@ -158,7 +258,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Fbayek_assassins_creed_origins_4k_8k-t2.jpg?alt=media&token=5787c7b0-df2f-4fdf-9bd5-d9b11e2c352d"
     },
-    "15" : {
+    "25" : {
       "AnswerA" : "November 2000",
       "AnswerB" : "October 2000",
       "AnswerC" : "March 2002",
@@ -168,7 +268,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2F1459870-maxresdefault-1500276457-261-640x480.jpg?alt=media&token=f1627587-d86b-48d4-a20e-16513d3bd129"
     },
-    "16" : {
+    "26" : {
       "AnswerA" : "Nintendo 3DS",
       "AnswerB" : "Nintendo Switch",
       "AnswerC" : "Nintendo Wii",
@@ -178,7 +278,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Fpokemon-battle-revolution-screeshot-4.jpg?alt=media&token=ca16dc65-ce56-4bb0-ae2a-db9648e7e126"
     },
-    "17" : {
+    "27" : {
       "AnswerA" : "Need For Speed Carbon",
       "AnswerB" : "The Sims 3 & The Sims 4",
       "AnswerC" : "Getting Over It with Bennett Foddy",
@@ -188,7 +288,7 @@
       "IsImageQuestion" : "false",
       "Question" : "In this question there are 4 games. Which one can run on apple computers?"
     },
-    "18" : {
+    "28" : {
       "AnswerA" : "EA Games",
       "AnswerB" : "Valve",
       "AnswerC" : "Capcom",
@@ -198,7 +298,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who developed the Devil May Cry series?"
     },
-    "19" : {
+    "29" : {
       "AnswerA" : "Xbox 360",
       "AnswerB" : "Sony Playstion 2",
       "AnswerC" : "Sony Playstion 4",
@@ -208,7 +308,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Fs-l300.jpg?alt=media&token=16d1a61b-829c-4c17-ba7f-8ae4f86c79a1"
     },
-    "20" : {
+    "30" : {
       "AnswerA" : "Canon",
       "AnswerB" : "Leica",
       "AnswerC" : "Kodak",
@@ -218,7 +318,107 @@
       "IsImageQuestion" : "false",
       "Question" : "What type of camera the Xbox One has?"
     },
-    "21" : {
+	"31" : {
+      "AnswerA" : "FIFA 15",
+      "AnswerB" : "FIFA 13",
+      "AnswerC" : "Pro Evolution Soccer 2019",
+      "AnswerD" : "Pro Evolution Soccer 2008",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "FIFA 13",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FFIFA-13-Wii-u.jpg?alt=media&token=a49de4ed-a475-431c-bf36-07b160634d57"
+    },
+	"32" : {
+      "AnswerA" : "Three",
+      "AnswerB" : "Two",
+      "AnswerC" : "Five",
+      "AnswerD" : "Six",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Five",
+      "IsImageQuestion" : "false",
+      "Question" : "On how many consoles can Call of Duty 3 run?"
+    },
+	"33" : {
+      "AnswerA" : "Call of Duty Black Ops 4",
+      "AnswerB" : "Need for Speed Payback",
+      "AnswerC" : "Dead or Alive 6",
+      "AnswerD" : "Forza Horizon 3",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Dead or Alive 6",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these games were released in 2019?"
+    },
+	"34" : {
+      "AnswerA" : "The Legend of Zelda: Four Swords Adventures",
+      "AnswerB" : "GameCube",
+      "AnswerC" : "Nintendo",
+      "AnswerD" : "All the answers are related to this image",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "All the answers are related to this image",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2F4swordsadvscreen.png?alt=media&token=68fada0e-411c-4ef0-b3ee-e0a850d6c36a"
+    },
+	"35" : {
+      "AnswerA" : "Counter Strike",
+      "AnswerB" : "Devil May Cry 5",
+      "AnswerC" : "DOOM",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Devil May Cry 5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FDevil_May_Cry_5_Nero_gameplay_screenshot.jpg?alt=media&token=8fcd187f-484a-4370-8ca6-aa47a4dae4b9"
+    },
+	"36" : {
+      "AnswerA" : "3rd party joysticks makers",
+      "AnswerB" : "Gaming engine",
+      "AnswerC" : "Game developers",
+      "AnswerD" : "Software developers",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Game developers",
+      "IsImageQuestion" : "false",
+      "Question" : "What are EA Games known for?"
+    },
+	"37" : {
+      "AnswerA" : "Nintendo DS",
+      "AnswerB" : "Nintendo 2DS",
+      "AnswerC" : "Nintendo 3DS XL",
+      "AnswerD" : "Nintendo 3DS",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Nintendo 3DS",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FNewNintendo3DS.png?alt=media&token=8e753dbd-2143-439c-a842-5a7e1d4ae307"
+    },
+	"38" : {
+      "AnswerA" : "Unreal Engine",
+      "AnswerB" : "Snowdrop",
+      "AnswerC" : "Frostbite",
+      "AnswerD" : "Unity",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Snowdrop",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the gaming engine of South Park The Fractured but Whole?"
+    },
+	"39" : {
+      "AnswerA" : "World of warcraft",
+      "AnswerB" : "Rakion",
+      "AnswerC" : "Prince of Persia",
+      "AnswerD" : "Dragon Quest",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Prince of Persia",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these game franchises did Ubisoft publish?"
+    },
+	"40" : {
+      "AnswerA" : "VR Set",
+      "AnswerB" : "3rd party console Joystick",
+      "AnswerC" : "Nintendo Switch Controllers",
+      "AnswerD" : "An AI camera accessory",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Nintendo Switch Controllers",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Joy-Con?"
+    },
+    "41" : {
       "AnswerA" : "Sony Xperia E5",
       "AnswerB" : "Sony Xperia X",
       "AnswerC" : "Sony Xperia M5",
@@ -228,7 +428,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fsony-xperia-e5r.jpg?alt=media&token=28f37823-13ea-446c-b0ca-524a13b71aa9"
     },
-    "22" : {
+    "42" : {
       "AnswerA" : "HTC Primo",
       "AnswerB" : "Samsung Nexus S",
       "AnswerC" : "Meizu MX2",
@@ -238,7 +438,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fnexuss.jpg?alt=media&token=e6ee9de9-5a5b-4b82-9adb-45c7b0a8daf2"
     },
-    "23" : {
+    "43" : {
       "AnswerA" : "Intel i3-3220",
       "AnswerB" : "Kirin 970",
       "AnswerC" : "A6",
@@ -248,7 +448,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What processor the Tempo X has?"
     },
-    "24" : {
+    "44" : {
       "AnswerA" : "Lee Kun-hee",
       "AnswerB" : "Pete Lau & Carl Pei",
       "AnswerC" : "Instituto Nacional de Industria",
@@ -258,7 +458,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who are the founders of OnePlus?"
     },
-    "25" : {
+    "45" : {
       "AnswerA" : "K6",
       "AnswerB" : "Lemon 3",
       "AnswerC" : "Liquid Z530",
@@ -268,7 +468,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Flenovo-k5-play.jpg?alt=media&token=0ae326aa-0dee-4621-a4bf-e42418d5c804"
     },
-    "26" : {
+    "46" : {
       "AnswerA" : "Huawei Enjoy 6s",
       "AnswerB" : "BLU S1",
       "AnswerC" : "Samsung Galaxy J1",
@@ -278,7 +478,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FVivo_V5_L_1.jpg?alt=media&token=8c473aed-3266-40e9-9d6a-d905fc6ed422"
     },
-    "27" : {
+    "47" : {
       "AnswerA" : "LG G4",
       "AnswerB" : "Xiaomi Redmi Note 4",
       "AnswerC" : "OnePlus 6T",
@@ -288,7 +488,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2F127444-v13-oneplus-6t-mobile-phone-large-1.jpg?alt=media&token=93bd327c-45a7-49df-8247-198c30321fa3"
     },
-    "28" : {
+    "48" : {
       "AnswerA" : "Samsung Galaxy A8",
       "AnswerB" : "LG Q9",
       "AnswerC" : "Pocophone F1",
@@ -298,7 +498,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FLG-Q9.jpg?alt=media&token=b1956a21-350f-4712-a99b-7d1b6cde4c48"
     },
-    "29" : {
+    "49" : {
       "AnswerA" : "Samsung",
       "AnswerB" : "LG",
       "AnswerC" : "Huawei",
@@ -308,7 +508,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who Created the first Nexus smartphone?"
     },
-    "30" : {
+    "50" : {
       "AnswerA" : "A sub-brand of Google",
       "AnswerB" : "Android custom roms",
       "AnswerC" : "An indian Android Smartphone",
@@ -318,7 +518,107 @@
       "IsImageQuestion" : "false",
       "Question" : "What is Android One?"
     },
-    "31" : {
+	"51" : {
+      "AnswerA" : "Same screen resolution",
+      "AnswerB" : "Same screen type",
+      "AnswerC" : "Same processor",
+      "AnswerD" : "Same amount of RAM",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "An unmodified Android OS",
+      "IsImageQuestion" : "false",
+      "Question" : "What the iPhone X, iPhone XS & iPhone XS Max have in common?"
+    },
+	"52" : {
+      "AnswerA" : "Nokia 4.2",
+      "AnswerB" : "Samsung Galaxy J2 Core",
+      "AnswerC" : "Xiaomi Mi 9",
+      "AnswerD" : "LG Q7+",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "LG Q7+",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these smartphones have 4GB of RAM?"
+    },
+	"53" : {
+      "AnswerA" : "Oppo Find X",
+      "AnswerB" : "Xiaomi Mi Max 3",
+      "AnswerC" : "HTC Desire 12s",
+      "AnswerD" : "OnePlus 5",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "HTC Desire 12s",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2F131953-v3-htc-desire-12s-mobile-phone-large-1.jpg?alt=media&token=f28496a9-f5f6-439d-a017-536e6f1fad00"
+    },
+	"54" : {
+      "AnswerA" : "alcatel 3L",
+      "AnswerB" : "alcatel 5v",
+      "AnswerC" : "alcatel 1s",
+      "AnswerD" : "alcatel 1x",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "alcatel 3L",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fa3_lite_metallic_black_front-min.png?alt=media&token=1b2af0bc-5bac-4f3d-a445-c350058cb057"
+    },
+	"55" : {
+      "AnswerA" : "A qHD+ smartphone",
+      "AnswerB" : "A 6GB RAM smartphone",
+      "AnswerC" : "A 2017 smartphone",
+      "AnswerD" : "Answers A & B",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Answers A & B",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Nokia 9 PureView?"
+    },
+	"56" : {
+      "AnswerA" : "EMUI",
+      "AnswerB" : "SenseUX",
+      "AnswerC" : "OppoUX",
+      "AnswerD" : "ColorOS",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "ColorOS",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the name of Oppo's Android skin?"
+    },
+	"57" : {
+      "AnswerA" : "Xiaomi Mi Mix 3",
+      "AnswerB" : "Oppo F11 Pro",
+      "AnswerC" : "Honor Magic 2 3D",
+      "AnswerD" : "Honor Magic 2",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Honor Magic 2 3D",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FHuawei-Honor-Magic-2-3D-500x500.jpg?alt=media&token=551acdcb-e5cb-455c-a7f5-477c99a63c3e"
+    },
+	"58" : {
+      "AnswerA" : "Samsung Galaxy A40",
+      "AnswerB" : "Samsung Galaxy A30",
+      "AnswerC" : "Samsung Galaxy A20",
+      "AnswerD" : "Samsung Galaxy A10",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Samsung Galaxy A30",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FSamsung-Galaxy-A30.jpg?alt=media&token=d484cb08-f181-4885-801b-1d7402023886"
+    },
+	"59" : {
+      "AnswerA" : "LG",
+      "AnswerB" : "Royole",
+      "AnswerC" : "Samsung",
+      "AnswerD" : "Huawei",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Royole",
+      "IsImageQuestion" : "false",
+      "Question" : "Who created the first foldable smartphone?"
+    },
+	"60" : {
+      "AnswerA" : "6.1 inches",
+      "AnswerB" : "6.33 inches",
+      "AnswerC" : "5.8 inches",
+      "AnswerD" : "6.5 inches",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "6.1 inches",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the screen size of the Samsung Galaxy S10?"
+    },
+    "61" : {
       "AnswerA" : "Smartphones",
       "AnswerB" : "Televisions",
       "AnswerC" : "Washing Machines",
@@ -328,7 +628,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What are Samsung's products?"
     },
-    "32" : {
+    "62" : {
       "AnswerA" : "IBM",
       "AnswerB" : "International Busters Manufacturers",
       "AnswerC" : "Inner Business Masters",
@@ -338,7 +638,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2F1fc3e2015c707682ee226f86a46cb4f0.jpg?alt=media&token=60fc0f21-54ec-45e4-841c-7ef8d7976cfc"
     },
-    "33" : {
+    "63" : {
       "AnswerA" : "Sports Drink",
       "AnswerB" : "Cola",
       "AnswerC" : "Juice",
@@ -348,7 +648,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2FPeps%20Logo%20Lg_011518.jpg?alt=media&token=39883092-15be-4b49-89f7-773d36be58b6"
     },
-    "34" : {
+    "64" : {
       "AnswerA" : "Hit Points",
       "AnswerB" : "Hammer Ponys",
       "AnswerC" : "Hewlett Packard",
@@ -358,7 +658,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What HP stands for?"
     },
-    "35" : {
+    "65" : {
       "AnswerA" : "Televisions",
       "AnswerB" : "Walkman",
       "AnswerC" : "Playstion",
@@ -368,7 +668,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What are Sony Corporation's products?"
     },
-    "36" : {
+    "66" : {
       "AnswerA" : "Cleaning Services",
       "AnswerB" : "Toiletries",
       "AnswerC" : "Computing",
@@ -378,7 +678,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2FDove-logo-219x286.png?alt=media&token=b9b51cb3-be64-493c-9f4c-c23378c22832"
     },
-    "37" : {
+    "67" : {
       "AnswerA" : "Purchased by Intel",
       "AnswerB" : "An Israeli Company",
       "AnswerC" : "Mobile Company",
@@ -388,7 +688,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2F128803.jpg?alt=media&token=992bd353-8407-4d30-ae2d-bd1f87b5adaf"
     },
-    "38" : {
+    "68" : {
       "AnswerA" : "Bullies",
       "AnswerB" : "Brooklyn Masters",
       "AnswerC" : "Red Masters",
@@ -398,7 +698,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fbeats-by-dr-dre-logo-A9F9E26136-seeklogo.com.png?alt=media&token=f8ce4164-3adc-4a81-8d48-a6faaca6179c"
     },
-    "39" : {
+    "69" : {
       "AnswerA" : "Sun Microsystems",
       "AnswerB" : "Programming Language",
       "AnswerC" : "Oracle",
@@ -408,7 +708,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fjava.png?alt=media&token=629e4ed3-33ce-433c-8eaf-40638fcef4fa"
     },
-    "40" : {
+    "70" : {
       "AnswerA" : "Sports Cars",
       "AnswerB" : "Germany",
       "AnswerC" : "Phones",
@@ -417,19 +717,109 @@
       "CorrectAnswer" : "Answers A & B",
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2FBMW-Audi-Mercedes.jpg?alt=media&token=47cca3bf-9ba8-4bc9-a5b1-a8559da3ed42"
+    },
+	"71" : {
+      "AnswerA" : "Aviation with satisfaction",
+      "AnswerB" : "Amazon Web Services",
+      "AnswerC" : "Animal Wealth Service",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Amazon Web Services",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fawslogo.jpg?alt=media&token=d51a18c6-376e-43a4-809c-9127305e675d"
+    },
+	"72" : {
+      "AnswerA" : "Gunpei Yokoi",
+      "AnswerB" : "Genyo Takeda",
+      "AnswerC" : "Fusajiro Yamauchi",
+      "AnswerD" : "Takashi Tezuka",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Fusajiro Yamauchi",
+      "IsImageQuestion" : "false",
+      "Question" : "Who founded Nintendo?"
+    },
+	"73" : {
+      "AnswerA" : "Paris",
+      "AnswerB" : "Orleans",
+      "AnswerC" : "Troyes",
+      "AnswerD" : "Burgundy",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Troyes",
+      "IsImageQuestion" : "true",
+      "Question" : "Where are LaCoste's headquarters?"
+    },
+	"74" : {
+      "AnswerA" : "Chanel 5",
+      "AnswerB" : "5 N's",
+      "AnswerC" : "N powered by 5",
+      "AnswerD" : "Nitrous 5",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Chanel 5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fnflogo.jpg?alt=media&token=f2f8ea40-bd93-4839-9351-c41dc72d3337"
+    },
+	"75" : {
+      "AnswerA" : "Fashion",
+      "AnswerB" : "Weapons",
+      "AnswerC" : "Bluetooth Speakers",
+      "AnswerD" : "Headphones",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Fashion",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fdecathlon.png?alt=media&token=1c9b2e52-b5e9-48ff-b3ff-51590638d5d7"
+    },
+	"76" : {
+      "AnswerA" : "Kiloblaster",
+      "AnswerB" : "Xargon",
+      "AnswerC" : "Robo Recall",
+      "AnswerD" : "They are all related to this logo",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "They are all related to this logo",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fepicgameslogo.jpg?alt=media&token=dd8fa436-b84a-4d60-b253-6be922da8d98"
+    },
+	"77" : {
+      "AnswerA" : "VR Sets",
+      "AnswerB" : "Graphic Cards",
+      "AnswerC" : "Keyboards",
+      "AnswerD" : "HDD",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Graphic Cards",
+      "IsImageQuestion" : "false",
+      "Question" : "What are Nvidia's products?"
+    },
+	"78" : {
+      "AnswerA" : "Intel",
+      "AnswerB" : "Nasa",
+      "AnswerC" : "Harman",
+      "AnswerD" : "former IBM",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Harman",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fharmanlogo.png?alt=media&token=6b256d05-4c95-430f-962c-a03bfd19062f"
+    },
+	"79" : {
+      "AnswerA" : "Lift Grand",
+      "AnswerB" : "Light Gifts",
+      "AnswerC" : "Liquid Generators",
+      "AnswerD" : "Lucky-Goldstar",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Lucky-Goldstar",
+      "IsImageQuestion" : "false",
+      "Question" : "What was LG's former name?"
+    },
+	"80" : {
+      "AnswerA" : "Seven",
+      "AnswerB" : "Four",
+      "AnswerC" : "Five",
+      "AnswerD" : "Two",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Five",
+      "IsImageQuestion" : "false",
+      "Question" : "how many logos did mazda have?"
     }
   },
   "Users" : {
-    "Androidking" : {
-      "email" : "nicoak@gmail.com",
-      "password" : "nicolas",
-      "username" : "Androidking"
-    },
-    "Mor" : {
-      "email" : "morbc@gmail.com",
-      "password" : "bitcoin",
-      "username" : "Mor"
-    },
     "yairnet92" : {
       "email" : "yairnet92@gmail.com",
       "password" : "mega123",
