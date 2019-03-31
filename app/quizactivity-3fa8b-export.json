@@ -1,19 +1,19 @@
 {
   "Category" : {
     "01" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime%20Category.jpg?alt=media&token=7917d007-634f-49ff-8bc2-93717677da66",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime%20Category.jpg?alt=media&token=7d123b82-6c7b-4eb6-9eb6-287315fdb71f",
       "Name" : "Anime"
     },
     "02" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming%20Category.jpg?alt=media&token=ad92fd65-5741-42aa-a085-af9e1ce5d6dc",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming%20Category.jpg?alt=media&token=872f2cfc-509d-4f96-bab8-01a120cd2a6e",
       "Name" : "Gaming"
     },
     "03" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone%20Category.jpg?alt=media&token=8a7f5894-6b48-4717-b27e-5d008ef218cd",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone%20Category.jpg?alt=media&token=17bead1a-b0fe-452c-b07e-139ce6eae577",
       "Name" : "Smartphones"
     },
     "04" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies%20Category.jpg?alt=media&token=357f2bab-14b1-40a2-ba1c-6ef1555774ce",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies%20Category.jpg?alt=media&token=10936954-e8d4-4f47-bbb5-d9ed1150c9e8",
       "Name" : "Companies"
     }
   },
