@@ -1,0 +1,1237 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime%20Category.jpg?alt=media&token=7d123b82-6c7b-4eb6-9eb6-287315fdb71f",
+      "Name" : "Anime"
+    },
+    "02" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming%20Category.jpg?alt=media&token=872f2cfc-509d-4f96-bab8-01a120cd2a6e",
+      "Name" : "Gaming"
+    },
+    "03" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone%20Category.jpg?alt=media&token=17bead1a-b0fe-452c-b07e-139ce6eae577",
+      "Name" : "Smartphones"
+    },
+    "04" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies%20Category.jpg?alt=media&token=10936954-e8d4-4f47-bbb5-d9ed1150c9e8",
+      "Name" : "Companies"
+    },
+	"05" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies%20Category.jpg?alt=media&token=b4fe1027-d809-4760-8a16-51ca1b37bc21",
+      "Name" : "Movies"
+    },
+	"06" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music%20Category.jpg?alt=media&token=9ead2522-e392-4494-9919-b9d1f9b8385f",
+      "Name" : "Music"
+    }
+  },
+  "Questions" : {
+    "01" : {
+      "AnswerA" : "1997",
+      "AnswerB" : "1986",
+      "AnswerC" : "2001",
+      "AnswerD" : "1990",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "1986",
+      "IsImageQuestion" : "false",
+      "Question" : "In what year Dragonball aired in Japan?"
+    },
+    "02" : {
+      "AnswerA" : "A young delinquent with a silly haircut",
+      "AnswerB" : "A 10 year-old douchbag",
+      "AnswerC" : "Massive massacres",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "None of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the plot of Pokemon?"
+    },
+    "03" : {
+      "AnswerA" : "Osamu Tezuka",
+      "AnswerB" : "Hajime Isayama",
+      "AnswerC" : "Masashi Kishimoto",
+      "AnswerD" : "Yoshihiro Togashi",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Yoshihiro Togashi",
+      "IsImageQuestion" : "false",
+      "Question" : "Who created Yu Yu Hakusho?"
+    },
+    "04" : {
+      "AnswerA" : "Daijiro Ohara",
+      "AnswerB" : "Masao Sato",
+      "AnswerC" : "Senbei Norimaki",
+      "AnswerD" : "Jimmy Kudo",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Jimmy Kudo",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2F651639_shinichi-kudo-wallpaper.jpg?alt=media&token=16212f8d-bdd3-432f-af3e-cdc02b6a22b2"
+    },
+    "05" : {
+      "AnswerA" : "Kyoya Hibari",
+      "AnswerB" : "Kagami Hiiragi",
+      "AnswerC" : "Tsunayoshi Sawada",
+      "AnswerD" : "Roronoa Zoro",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Tsunayoshi Sawada",
+      "IsImageQuestion" : "false",
+      "Question" : "Who's the main character in Katekyo Hitman Reborn?"
+    },
+    "06" : {
+      "AnswerA" : "A famous anime critic",
+      "AnswerB" : "An anime director",
+      "AnswerC" : "A famous toy in most animes",
+      "AnswerD" : "Group of anime creators",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Group of anime creators",
+      "IsImageQuestion" : "false",
+      "Question" : "Who's Clamp?"
+    },
+    "07" : {
+      "AnswerA" : "Takeshi Izumi",
+      "AnswerB" : "Yuge Itsuki",
+      "AnswerC" : "Kimihiro Watanuki",
+      "AnswerD" : "Manjome Inshu",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Yuge Itsuki",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FYuge.Itsuki.full.2379111.png?alt=media&token=5a5e1d18-914a-4bdd-bf9e-e8457dbde7ea"
+    },
+    "08" : {
+      "AnswerA" : "Ryuma",
+      "AnswerB" : "Guts",
+      "AnswerC" : "Astral",
+      "AnswerD" : "Jin",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Guts",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FGuts-0.png?alt=media&token=2f4d4953-cd2a-464b-96dc-b6fc7f64432a"
+    },
+    "09" : {
+      "AnswerA" : "Same number of volumes",
+      "AnswerB" : "Same publisher",
+      "AnswerC" : "Same creator",
+      "AnswerD" : "Answers B and C",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Answers B and C",
+      "IsImageQuestion" : "false",
+      "Question" : "What the Animes Inuyasha and Ranma 1/2 have in common?"
+    },
+    "10" : {
+      "AnswerA" : "Shounen",
+      "AnswerB" : "Shojo",
+      "AnswerC" : "Hentai",
+      "AnswerD" : "Seinen",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Shojo",
+      "IsImageQuestion" : "false",
+      "Question" : "What the demographic of the franchise Pretty Cure?"
+    },
+	"11" : {
+      "AnswerA" : "Esdeath",
+      "AnswerB" : "Komagata Yumi",
+      "AnswerC" : "Kagura",
+      "AnswerD" : "Crocodine",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Esdeath",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2Fmaxresdefault.jpg?alt=media&token=3cb6936c-4451-4639-bc1e-fa7af2aca4b8"
+    },
+	"12" : {
+      "AnswerA" : "Yoko Kamio",
+      "AnswerB" : "George Morikawa",
+      "AnswerC" : "Hirohiko Araki",
+      "AnswerD" : "Osamu Tezuka",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Osamu Tezuka",
+      "IsImageQuestion" : "false",
+      "Question" : "Who created Astro Boy?"
+    },
+	"13" : {
+      "AnswerA" : "33 Million",
+      "AnswerB" : "26.5 Million",
+      "AnswerC" : "41 Million",
+      "AnswerD" : "19 Million",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "26.5 Million",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FAsari-chan.jpg?alt=media&token=12b0d800-9848-46ab-8a74-bc66c7c3b90c"
+    },
+	"14" : {
+      "AnswerA" : "Xing Huo",
+      "AnswerB" : "Takeshi Masu",
+      "AnswerC" : "Fei-Wang Reed",
+      "AnswerD" : "Yu Kanda",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Fei-Wang Reed",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FFei_wang_reed_render.png?alt=media&token=e6d8ec0d-3fb1-43c7-9441-9cba8e1c118b"
+    },
+	"15" : {
+      "AnswerA" : "Killua Zoldyck",
+      "AnswerB" : "Gon Freecss",
+      "AnswerC" : "Yoshimura",
+      "AnswerD" : "Kaya Irimi",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Gon Freecss",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FGon-2011.png?alt=media&token=3276db9e-f133-45e6-bf79-9f7e95149c51"
+    },
+	"16" : {
+      "AnswerA" : "Griffith",
+      "AnswerB" : "Hiroshi Kato",
+      "AnswerC" : "Ken Kaneki",
+      "AnswerD" : "Kazumi Araiwa",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Ken Kaneki",
+      "IsImageQuestion" : "false",
+      "Question" : "Who is the main character in Tokyo Ghoul?"
+    },
+	"17" : {
+      "AnswerA" : "Hiro Mashima",
+      "AnswerB" : "Takehiko Inoue",
+      "AnswerC" : "Mitsuru Adachi",
+      "AnswerD" : "Hajime Isayama",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Hajime Isayama",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FHajime_Isayama.png?alt=media&token=ffd70a81-0308-4e6c-beb0-ba72d8111c9a"
+    },
+	"18" : {
+      "AnswerA" : "Katsuki Bakugo",
+      "AnswerB" : "Escanor",
+      "AnswerC" : "Kohaku",
+      "AnswerD" : "Riko Akasaka",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Katsuki Bakugo",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FKatsuki_Bakugo_School_Uniform_Full_Body.png?alt=media&token=1ca4bdc0-d6e1-4fdf-b9e2-fb376776dd72"
+    },
+	"19" : {
+      "AnswerA" : "A special type of basket",
+      "AnswerB" : "A Divine Place",
+      "AnswerC" : "A 16-year old teenager",
+      "AnswerD" : "A type of sport in Hawaii",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "A 16-year old teenager",
+      "IsImageQuestion" : "false",
+      "Question" : "What revolves around Fruits Basket?"
+    },
+	"20" : {
+      "AnswerA" : "Hokuto Shinken",
+      "AnswerB" : "Kiba Inuzuka",
+      "AnswerC" : "Amy Yoshida",
+      "AnswerD" : "Hideyuki Makimura",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Kiba Inuzuka",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of this characters are in Naruto?"
+    },
+    "21" : {
+      "AnswerA" : "Nintendo Gameboy",
+      "AnswerB" : "TV Tennis Electrotennis",
+      "AnswerC" : "Atari ST",
+      "AnswerD" : "Color TV-Game series",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Atari ST",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Findex.jpg?alt=media&token=8bec17d9-7c71-41f6-a08e-d75cf7b367e5"
+    },
+    "22" : {
+      "AnswerA" : "Color TV-Game series",
+      "AnswerB" : "Super Famicom",
+      "AnswerC" : "Game Boy",
+      "AnswerD" : "All of them",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "All of them",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these are Nintendo's consoles?"
+    },
+    "23" : {
+      "AnswerA" : "Same animation staff",
+      "AnswerB" : "Same graphic designers",
+      "AnswerC" : "Constant crossovers",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "None of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What the creators of Need For Speed and The Sims have in common?"
+    },
+    "24" : {
+      "AnswerA" : "Paris",
+      "AnswerB" : "Venice",
+      "AnswerC" : "Old Eygpt",
+      "AnswerD" : "Holy Land",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Old Eygpt",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Fbayek_assassins_creed_origins_4k_8k-t2.jpg?alt=media&token=5787c7b0-df2f-4fdf-9bd5-d9b11e2c352d"
+    },
+    "25" : {
+      "AnswerA" : "November 2000",
+      "AnswerB" : "October 2000",
+      "AnswerC" : "March 2002",
+      "AnswerD" : "July 2001",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "November 2000",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2F1459870-maxresdefault-1500276457-261-640x480.jpg?alt=media&token=f1627587-d86b-48d4-a20e-16513d3bd129"
+    },
+    "26" : {
+      "AnswerA" : "Nintendo 3DS",
+      "AnswerB" : "Nintendo Switch",
+      "AnswerC" : "Nintendo Wii",
+      "AnswerD" : "Nintendo Wii U",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Nintendo Wii",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Fpokemon-battle-revolution-screeshot-4.jpg?alt=media&token=ca16dc65-ce56-4bb0-ae2a-db9648e7e126"
+    },
+    "27" : {
+      "AnswerA" : "Need For Speed Carbon",
+      "AnswerB" : "The Sims 3 & The Sims 4",
+      "AnswerC" : "Getting Over It with Bennett Foddy",
+      "AnswerD" : "All of them",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "All of them",
+      "IsImageQuestion" : "false",
+      "Question" : "In this question there are 4 games. Which one can run on apple computers?"
+    },
+    "28" : {
+      "AnswerA" : "EA Games",
+      "AnswerB" : "Valve",
+      "AnswerC" : "Capcom",
+      "AnswerD" : "Bandai",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Capcom",
+      "IsImageQuestion" : "false",
+      "Question" : "Who developed the Devil May Cry series?"
+    },
+    "29" : {
+      "AnswerA" : "Xbox 360",
+      "AnswerB" : "Sony Playstion 2",
+      "AnswerC" : "Sony Playstion 4",
+      "AnswerD" : "Xbox",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Sony Playstion 4",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2Fs-l300.jpg?alt=media&token=16d1a61b-829c-4c17-ba7f-8ae4f86c79a1"
+    },
+    "30" : {
+      "AnswerA" : "Canon",
+      "AnswerB" : "Leica",
+      "AnswerC" : "Kodak",
+      "AnswerD" : "Kinect",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Kinect",
+      "IsImageQuestion" : "false",
+      "Question" : "What type of camera the Xbox One has?"
+    },
+	"31" : {
+      "AnswerA" : "FIFA 15",
+      "AnswerB" : "FIFA 13",
+      "AnswerC" : "Pro Evolution Soccer 2019",
+      "AnswerD" : "Pro Evolution Soccer 2008",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "FIFA 13",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FFIFA-13-Wii-u.jpg?alt=media&token=a49de4ed-a475-431c-bf36-07b160634d57"
+    },
+	"32" : {
+      "AnswerA" : "Three",
+      "AnswerB" : "Two",
+      "AnswerC" : "Five",
+      "AnswerD" : "Six",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Five",
+      "IsImageQuestion" : "false",
+      "Question" : "On how many consoles can Call of Duty 3 run?"
+    },
+	"33" : {
+      "AnswerA" : "Call of Duty Black Ops 4",
+      "AnswerB" : "Need for Speed Payback",
+      "AnswerC" : "Dead or Alive 6",
+      "AnswerD" : "Forza Horizon 3",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Dead or Alive 6",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these games were released in 2019?"
+    },
+	"34" : {
+      "AnswerA" : "The Legend of Zelda: Four Swords Adventures",
+      "AnswerB" : "GameCube",
+      "AnswerC" : "Nintendo",
+      "AnswerD" : "All the answers are related to this image",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "All the answers are related to this image",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2F4swordsadvscreen.png?alt=media&token=68fada0e-411c-4ef0-b3ee-e0a850d6c36a"
+    },
+	"35" : {
+      "AnswerA" : "Counter Strike",
+      "AnswerB" : "Devil May Cry 5",
+      "AnswerC" : "DOOM",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Devil May Cry 5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FDevil_May_Cry_5_Nero_gameplay_screenshot.jpg?alt=media&token=8fcd187f-484a-4370-8ca6-aa47a4dae4b9"
+    },
+	"36" : {
+      "AnswerA" : "3rd party joysticks makers",
+      "AnswerB" : "Gaming engine",
+      "AnswerC" : "Game developers",
+      "AnswerD" : "Software developers",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Game developers",
+      "IsImageQuestion" : "false",
+      "Question" : "What are EA Games known for?"
+    },
+	"37" : {
+      "AnswerA" : "Nintendo DS",
+      "AnswerB" : "Nintendo 2DS",
+      "AnswerC" : "Nintendo 3DS XL",
+      "AnswerD" : "Nintendo 3DS",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Nintendo 3DS",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FNewNintendo3DS.png?alt=media&token=8e753dbd-2143-439c-a842-5a7e1d4ae307"
+    },
+	"38" : {
+      "AnswerA" : "Unreal Engine",
+      "AnswerB" : "Snowdrop",
+      "AnswerC" : "Frostbite",
+      "AnswerD" : "Unity",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Snowdrop",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the gaming engine of South Park The Fractured but Whole?"
+    },
+	"39" : {
+      "AnswerA" : "World of warcraft",
+      "AnswerB" : "Rakion",
+      "AnswerC" : "Prince of Persia",
+      "AnswerD" : "Dragon Quest",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Prince of Persia",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these game franchises did Ubisoft publish?"
+    },
+	"40" : {
+      "AnswerA" : "VR Set",
+      "AnswerB" : "3rd party console Joystick",
+      "AnswerC" : "Nintendo Switch Controllers",
+      "AnswerD" : "An AI camera accessory",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Nintendo Switch Controllers",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Joy-Con?"
+    },
+    "41" : {
+      "AnswerA" : "Sony Xperia E5",
+      "AnswerB" : "Sony Xperia X",
+      "AnswerC" : "Sony Xperia M5",
+      "AnswerD" : "Sony Xperia Z5",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Sony Xperia E5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fsony-xperia-e5r.jpg?alt=media&token=28f37823-13ea-446c-b0ca-524a13b71aa9"
+    },
+    "42" : {
+      "AnswerA" : "HTC Primo",
+      "AnswerB" : "Samsung Nexus S",
+      "AnswerC" : "Meizu MX2",
+      "AnswerD" : "Black 1X",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Samsung Nexus S",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fnexuss.jpg?alt=media&token=e6ee9de9-5a5b-4b82-9adb-45c7b0a8daf2"
+    },
+    "43" : {
+      "AnswerA" : "Intel i3-3220",
+      "AnswerB" : "Kirin 970",
+      "AnswerC" : "A6",
+      "AnswerD" : "Snapdragon 210",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Snapdragon 210",
+      "IsImageQuestion" : "false",
+      "Question" : "What processor the Tempo X has?"
+    },
+    "44" : {
+      "AnswerA" : "Lee Kun-hee",
+      "AnswerB" : "Pete Lau & Carl Pei",
+      "AnswerC" : "Instituto Nacional de Industria",
+      "AnswerD" : "Koo In-hwoi",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Pete Lau & Carl Pei",
+      "IsImageQuestion" : "false",
+      "Question" : "Who are the founders of OnePlus?"
+    },
+    "45" : {
+      "AnswerA" : "K6",
+      "AnswerB" : "Lemon 3",
+      "AnswerC" : "Liquid Z530",
+      "AnswerD" : "K5 play",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "K5 play",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Flenovo-k5-play.jpg?alt=media&token=0ae326aa-0dee-4621-a4bf-e42418d5c804"
+    },
+    "46" : {
+      "AnswerA" : "Huawei Enjoy 6s",
+      "AnswerB" : "BLU S1",
+      "AnswerC" : "Samsung Galaxy J1",
+      "AnswerD" : "Vivo V5",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Vivo V5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FVivo_V5_L_1.jpg?alt=media&token=8c473aed-3266-40e9-9d6a-d905fc6ed422"
+    },
+    "47" : {
+      "AnswerA" : "LG G4",
+      "AnswerB" : "Xiaomi Redmi Note 4",
+      "AnswerC" : "OnePlus 6T",
+      "AnswerD" : "OnePlus 6",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "OnePlus 6T",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2F127444-v13-oneplus-6t-mobile-phone-large-1.jpg?alt=media&token=93bd327c-45a7-49df-8247-198c30321fa3"
+    },
+    "48" : {
+      "AnswerA" : "Samsung Galaxy A8",
+      "AnswerB" : "LG Q9",
+      "AnswerC" : "Pocophone F1",
+      "AnswerD" : "Honor Magic 2",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "LG Q9",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FLG-Q9.jpg?alt=media&token=b1956a21-350f-4712-a99b-7d1b6cde4c48"
+    },
+    "49" : {
+      "AnswerA" : "Samsung",
+      "AnswerB" : "LG",
+      "AnswerC" : "Huawei",
+      "AnswerD" : "HTC",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "HTC",
+      "IsImageQuestion" : "false",
+      "Question" : "Who Created the first Nexus smartphone?"
+    },
+    "50" : {
+      "AnswerA" : "A sub-brand of Google",
+      "AnswerB" : "Android custom roms",
+      "AnswerC" : "An indian Android Smartphone",
+      "AnswerD" : "An unmodified Android OS",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "An unmodified Android OS",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Android One?"
+    },
+	"51" : {
+      "AnswerA" : "Same screen resolution",
+      "AnswerB" : "Same screen type",
+      "AnswerC" : "Same processor",
+      "AnswerD" : "Same amount of RAM",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "An unmodified Android OS",
+      "IsImageQuestion" : "false",
+      "Question" : "What the iPhone X, iPhone XS & iPhone XS Max have in common?"
+    },
+	"52" : {
+      "AnswerA" : "Nokia 4.2",
+      "AnswerB" : "Samsung Galaxy J2 Core",
+      "AnswerC" : "Xiaomi Mi 9",
+      "AnswerD" : "LG Q7+",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "LG Q7+",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these smartphones have 4GB of RAM?"
+    },
+	"53" : {
+      "AnswerA" : "Oppo Find X",
+      "AnswerB" : "Xiaomi Mi Max 3",
+      "AnswerC" : "HTC Desire 12s",
+      "AnswerD" : "OnePlus 5",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "HTC Desire 12s",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2F131953-v3-htc-desire-12s-mobile-phone-large-1.jpg?alt=media&token=f28496a9-f5f6-439d-a017-536e6f1fad00"
+    },
+	"54" : {
+      "AnswerA" : "alcatel 3L",
+      "AnswerB" : "alcatel 5v",
+      "AnswerC" : "alcatel 1s",
+      "AnswerD" : "alcatel 1x",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "alcatel 3L",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fa3_lite_metallic_black_front-min.png?alt=media&token=1b2af0bc-5bac-4f3d-a445-c350058cb057"
+    },
+	"55" : {
+      "AnswerA" : "A qHD+ smartphone",
+      "AnswerB" : "A 6GB RAM smartphone",
+      "AnswerC" : "A 2017 smartphone",
+      "AnswerD" : "Answers A & B",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Answers A & B",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Nokia 9 PureView?"
+    },
+	"56" : {
+      "AnswerA" : "EMUI",
+      "AnswerB" : "SenseUX",
+      "AnswerC" : "OppoUX",
+      "AnswerD" : "ColorOS",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "ColorOS",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the name of Oppo's Android skin?"
+    },
+	"57" : {
+      "AnswerA" : "Xiaomi Mi Mix 3",
+      "AnswerB" : "Oppo F11 Pro",
+      "AnswerC" : "Honor Magic 2 3D",
+      "AnswerD" : "Honor Magic 2",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Honor Magic 2 3D",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FHuawei-Honor-Magic-2-3D-500x500.jpg?alt=media&token=551acdcb-e5cb-455c-a7f5-477c99a63c3e"
+    },
+	"58" : {
+      "AnswerA" : "Samsung Galaxy A40",
+      "AnswerB" : "Samsung Galaxy A30",
+      "AnswerC" : "Samsung Galaxy A20",
+      "AnswerD" : "Samsung Galaxy A10",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Samsung Galaxy A30",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FSamsung-Galaxy-A30.jpg?alt=media&token=d484cb08-f181-4885-801b-1d7402023886"
+    },
+	"59" : {
+      "AnswerA" : "LG",
+      "AnswerB" : "Royole",
+      "AnswerC" : "Samsung",
+      "AnswerD" : "Huawei",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Royole",
+      "IsImageQuestion" : "false",
+      "Question" : "Who created the first foldable smartphone?"
+    },
+	"60" : {
+      "AnswerA" : "6.1 inches",
+      "AnswerB" : "6.33 inches",
+      "AnswerC" : "5.8 inches",
+      "AnswerD" : "6.5 inches",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "6.1 inches",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the screen size of the Samsung Galaxy S10?"
+    },
+    "61" : {
+      "AnswerA" : "Smartphones",
+      "AnswerB" : "Televisions",
+      "AnswerC" : "Washing Machines",
+      "AnswerD" : "All of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What are Samsung's products?"
+    },
+    "62" : {
+      "AnswerA" : "Adidas",
+      "AnswerB" : "Land Rover",
+      "AnswerC" : "Simple Circle",
+      "AnswerD" : "Ford",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Ford",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Ffordbwlogo.png?alt=media&token=ae129fa0-9d1d-49d9-bc07-76490bb8e196"
+    },
+    "63" : {
+      "AnswerA" : "Aptech",
+      "AnswerB" : "Aliter",
+      "AnswerC" : "Juniper",
+      "AnswerD" : "Cisco",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Cisco",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fciscologo.png?alt=media&token=92a43998-8e85-4b65-b840-b462d6e03a13"
+    },
+    "64" : {
+      "AnswerA" : "Hewlett Packard",
+      "AnswerB" : "Hammer Ponys",
+      "AnswerC" : "Health Pairs",
+      "AnswerD" : "High Parts",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Hewlett Packard",
+      "IsImageQuestion" : "false",
+      "Question" : "What HP stands for?"
+    },
+    "65" : {
+      "AnswerA" : "Televisions",
+      "AnswerB" : "Walkman",
+      "AnswerC" : "Playstion",
+      "AnswerD" : "All of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "All of the above",
+      "IsImageQuestion" : "false",
+      "Question" : "What are Sony Corporation's products?"
+    },
+    "66" : {
+      "AnswerA" : "Unilever",
+      "AnswerB" : "Cleaning Services",
+      "AnswerC" : "Toiletries",
+      "AnswerD" : "Answers A and C",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Answers A and C",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fdovelogo.png?alt=media&token=8e33f90d-6005-4f46-b3fe-e486cd04ef41"
+    },
+    "67" : {
+      "AnswerA" : "Purchased by Intel",
+      "AnswerB" : "An Israeli Company",
+      "AnswerC" : "Mobile Company",
+      "AnswerD" : "Answers A and B",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Answers A and B",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fmobileyelogo.png?alt=media&token=73998a72-a3fe-4157-ae4c-e87dc33b7b88"
+    },
+    "68" : {
+      "AnswerA" : "20 Million Dollars",
+      "AnswerB" : "37 Million Dollars",
+      "AnswerC" : "7.5 Billion Dollars",
+      "AnswerD" : "Microsoft didn't purchase GitHub",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "7.5 Billion Dollars",
+      "IsImageQuestion" : "false",
+      "Question" : "In how much money Microsoft bought GitHub?"
+    },
+    "69" : {
+      "AnswerA" : "A line of perfumes by Hugo Boss",
+      "AnswerB" : "A parent company of Google",
+      "AnswerC" : "A former Spanish car company",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "A parent company of Google",
+      "IsImageQuestion" : "false",
+      "Question" : "What is Alphabet?"
+    },
+    "70" : {
+      "AnswerA" : "Sports Cars",
+      "AnswerB" : "Germany",
+      "AnswerC" : "Phones",
+      "AnswerD" : "Answers A and B",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Answers A and B",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fbmwmercedesaudilogos.png?alt=media&token=03f4421f-431a-4231-ad7f-91542620b6b7"
+    },
+	"71" : {
+      "AnswerA" : "Alternate Wire Section",
+      "AnswerB" : "Amazon Web Services",
+      "AnswerC" : "Animal Wealth Service",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Amazon Web Services",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fawslogo.jpg?alt=media&token=d51a18c6-376e-43a4-809c-9127305e675d"
+    },
+	"72" : {
+      "AnswerA" : "Gunpei Yokoi",
+      "AnswerB" : "Genyo Takeda",
+      "AnswerC" : "Fusajiro Yamauchi",
+      "AnswerD" : "Takashi Tezuka",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Fusajiro Yamauchi",
+      "IsImageQuestion" : "false",
+      "Question" : "Who founded Nintendo?"
+    },
+	"73" : {
+      "AnswerA" : "Paris",
+      "AnswerB" : "Orleans",
+      "AnswerC" : "Troyes",
+      "AnswerD" : "Burgundy",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Troyes",
+      "IsImageQuestion" : "false",
+      "Question" : "Where are LaCoste's headquarters?"
+    },
+	"74" : {
+      "AnswerA" : "Chanel 5",
+      "AnswerB" : "5 N's",
+      "AnswerC" : "N powered by 5",
+      "AnswerD" : "Nitrous 5",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Chanel 5",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fnflogo.jpg?alt=media&token=f2f8ea40-bd93-4839-9351-c41dc72d3337"
+    },
+	"75" : {
+      "AnswerA" : "Fashion",
+      "AnswerB" : "Weapons",
+      "AnswerC" : "Bluetooth Speakers",
+      "AnswerD" : "Headphones",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Fashion",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fdecathlon.png?alt=media&token=1c9b2e52-b5e9-48ff-b3ff-51590638d5d7"
+    },
+	"76" : {
+      "AnswerA" : "Kiloblaster",
+      "AnswerB" : "Xargon",
+      "AnswerC" : "Robo Recall",
+      "AnswerD" : "They are all related to this logo",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "They are all related to this logo",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fepicgameslogo.jpg?alt=media&token=dd8fa436-b84a-4d60-b253-6be922da8d98"
+    },
+	"77" : {
+      "AnswerA" : "VR Sets",
+      "AnswerB" : "Graphic Cards",
+      "AnswerC" : "Keyboards",
+      "AnswerD" : "HDD",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Graphic Cards",
+      "IsImageQuestion" : "false",
+      "Question" : "What are Nvidia's products?"
+    },
+	"78" : {
+      "AnswerA" : "Intel",
+      "AnswerB" : "Nasa",
+      "AnswerC" : "Harman",
+      "AnswerD" : "former IBM",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Harman",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fharmanlogo.png?alt=media&token=6b256d05-4c95-430f-962c-a03bfd19062f"
+    },
+	"79" : {
+      "AnswerA" : "Lift Grand",
+      "AnswerB" : "Light Gifts",
+      "AnswerC" : "Liquid Generators",
+      "AnswerD" : "Lucky-Goldstar",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Lucky-Goldstar",
+      "IsImageQuestion" : "false",
+      "Question" : "What was LG's former name?"
+    },
+	"80" : {
+      "AnswerA" : "Seven",
+      "AnswerB" : "Four",
+      "AnswerC" : "Five",
+      "AnswerD" : "Two",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Five",
+      "IsImageQuestion" : "false",
+      "Question" : "How many emblems did mazda have?"
+    },
+	"81" : {
+      "AnswerA" : "20,000 Leagues Under the Sea",
+      "AnswerB" : "Maleficent",
+      "AnswerC" : "Up",
+      "AnswerD" : "Monsters, Inc",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "20,000 Leagues Under the Sea",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of the following movies are from Disney?"
+    },
+    "82" : {
+      "AnswerA" : "Sean Maguire",
+      "AnswerB" : "Ken Davitian",
+      "AnswerC" : "Stephen Lang",
+      "AnswerD" : "Robert Downey Jr.",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Robert Downey Jr.",
+      "IsImageQuestion" : "false",
+      "Question" : "Who played Iron Man in the 2012 Avengers movie?"
+    },
+    "83" : {
+      "AnswerA" : "John Goodman",
+      "AnswerB" : "Chris Evans",
+      "AnswerC" : "Tom Hanks",
+      "AnswerD" : "Joseph Culp",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Tom Hanks",
+      "IsImageQuestion" : "false",
+      "Question" : "Who was the voice actor of Woody at the first Toy Story movie?"
+    },
+    "84" : {
+      "AnswerA" : "The Beach",
+      "AnswerB" : "Marvin's Room",
+      "AnswerC" : "Titanic",
+      "AnswerD" : "Romeo+Juliet",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Titanic",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Ftitanicposter.jpg?alt=media&token=f9fb2808-b5e5-4dd8-a7c1-8ceb852ca5a0"
+    },
+    "85" : {
+      "AnswerA" : "Cast Away",
+      "AnswerB" : "Engine Trouble",
+      "AnswerC" : "Catch Me If You Can",
+      "AnswerD" : "Envy",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Catch Me If You Can",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fcatchmeifyoucanposter.jpg?alt=media&token=74e5f6d8-4317-4cec-a11b-6f94b7e60eda"
+    },
+    "86" : {
+      "AnswerA" : "Emily Blunt",
+      "AnswerB" : "Scott Moore",
+      "AnswerC" : "Penpak Sirikul",
+      "AnswerD" : "Zach Galifianakis",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Zach Galifianakis",
+      "IsImageQuestion" : "false",
+      "Question" : "Who played in all 3 movies of The Hangover?"
+    },
+    "87" : {
+      "AnswerA" : "Winston Duke",
+      "AnswerB" : "Don Cheadle",
+      "AnswerC" : "Scott Haze",
+      "AnswerD" : "Ben Hardy",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Don Cheadle",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fdoncheadle.jpg?alt=media&token=e1e4368e-a7fb-47c2-a5a7-de44ace1996c"
+    },
+    "88" : {
+      "AnswerA" : "Scarlett Johansson",
+      "AnswerB" : "Elizabeth Olsen",
+      "AnswerC" : "Michelle Williams",
+      "AnswerD" : "Lucy Boynton",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Scarlett Johansson",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fscarlettjohansson.jpg?alt=media&token=309cd6dc-3ca1-4640-a937-69a2b0f9acc4"
+    },
+    "89" : {
+      "AnswerA" : "Same writer",
+      "AnswerB" : "Same director",
+      "AnswerC" : "Same music composer",
+      "AnswerD" : "Same producer",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Same producer",
+      "IsImageQuestion" : "false",
+      "Question" : "What the Mission Impossible movies have in common?"
+    },
+    "90" : {
+      "AnswerA" : "Victor Frankenstein",
+      "AnswerB" : "The Unbeatables",
+      "AnswerC" : "Urban Myths",
+      "AnswerD" : "Regression",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Victor Frankenstein",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fdanielradcliffe.jpg?alt=media&token=c868569e-7d5a-4e4a-b26d-e41d344f67e8"
+    },
+	"91" : {
+      "AnswerA" : "El Cid",
+      "AnswerB" : "The Adventures of Tom Thumb and Thumbelina",
+      "AnswerC" : "The Return of the King",
+      "AnswerD" : "Gods and Monsters",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "The Return of the King",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Flordoftheringsiiiposter.jpg?alt=media&token=7c433a28-c6b1-4444-80c2-e591184d6d39"
+    },
+	"92" : {
+      "AnswerA" : "Five",
+      "AnswerB" : "Three",
+      "AnswerC" : "One",
+      "AnswerD" : "Nine",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Nine",
+      "IsImageQuestion" : "false",
+      "Question" : "In how many movie did Al Pacino play between 2000 and 2005?"
+    },
+	"93" : {
+      "AnswerA" : "Brave",
+      "AnswerB" : "The Prince of Egypt",
+      "AnswerC" : "Castaway Cowboy",
+      "AnswerD" : "Finding Dory",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "The Prince of Egypt",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of the following movies are from Dreamworks?"
+    },
+	"94" : {
+      "AnswerA" : "The Terminator",
+      "AnswerB" : "Aliens",
+      "AnswerC" : "The Abyss",
+      "AnswerD" : "All the answers are related to this image",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "All the answers are related to this image",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fjamescameron.jpg?alt=media&token=99fd70ad-7518-4eee-9aed-82a501528716"
+    },
+	"95" : {
+      "AnswerA" : "1.5 Billion Dollars",
+      "AnswerB" : "2.048 Billion Dollars",
+      "AnswerC" : "1.7 Billion Dollars",
+      "AnswerD" : "987 Million Dollars",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "2.048 Billion Dollars",
+      "IsImageQuestion" : "false",
+      "Question" : "How much money did Avengers Infinity War gross?"
+    },
+	"96" : {
+      "AnswerA" : "Max Schlesinger",
+      "AnswerB" : "Kaulder",
+      "AnswerC" : "Shane Wolfe",
+      "AnswerD" : "Taylor Reese",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Kaulder",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Ftlwhposter.jpg?alt=media&token=4622345e-dc98-4a02-9459-9312fe981d73"
+    },
+	"97" : {
+      "AnswerA" : "US & Italy",
+      "AnswerB" : "US & Japan",
+      "AnswerC" : "US & England",
+      "AnswerD" : "US & Germany",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "US & Germany",
+      "IsImageQuestion" : "false",
+      "Question" : "In what countries the Fantastic Four was filmed?"
+    },
+	"98" : {
+      "AnswerA" : "James Marsden",
+      "AnswerB" : "Ed Skrein",
+      "AnswerC" : "Stephen Merchant",
+      "AnswerD" : "Patrick Stewart",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Patrick Stewart",
+      "IsImageQuestion" : "false",
+      "Question" : "Who played Professor X in the first X-Men movie?"
+    },
+	"99" : {
+      "AnswerA" : "An Egyptian priest from the Middle East",
+      "AnswerB" : "A street urchin",
+      "AnswerC" : "A magical wizard",
+      "AnswerD" : "A street singer",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "A street urchin",
+      "IsImageQuestion" : "false",
+      "Question" : "Who is Aladdin in the animated movie?"
+    },
+	"100" : {
+      "AnswerA" : "1984",
+      "AnswerB" : "1973",
+      "AnswerC" : "1977",
+      "AnswerD" : "1990",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "1977",
+      "IsImageQuestion" : "false",
+      "Question" : "In what year the first Star Wars movie aired?"
+    },
+	"101" : {
+      "AnswerA" : "Her Majesty",
+      "AnswerB" : "For No One",
+      "AnswerC" : "Oh! Darling",
+      "AnswerD" : "Taxman",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Oh! Darling",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the name of the 4th song in the beatles' album, Abbey Road?"
+    },
+	"102" : {
+      "AnswerA" : "Adam Clayton",
+      "AnswerB" : "Jonny Buckland",
+      "AnswerC" : "Philip Selway",
+      "AnswerD" : "Eddie Vedder",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Eddie Vedder",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of the following is a member in Pearl Jam?"
+    },
+	"103" : {
+      "AnswerA" : "Ghost Stories",
+      "AnswerB" : "Zooropa",
+      "AnswerC" : "No Line on the Horizon",
+      "AnswerD" : "Backspacer",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Ghost Stories",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FColdplay_-_Ghost_Stories.png?alt=media&token=8a08ee02-b992-43ca-9c88-1dd8967cecc1"
+    },
+	"104" : {
+      "AnswerA" : "Iggy Azalea",
+      "AnswerB" : "Lorde",
+      "AnswerC" : "Emma Bunton",
+      "AnswerD" : "Jennifer Saunders",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Lorde",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2F800px-Lorde_Brisbane_Nov_2017_(cropped).jpg?alt=media&token=65c7c2f7-a641-4542-bd3d-e022f064c031"
+    },
+	"105" : {
+      "AnswerA" : "Radiohead",
+      "AnswerB" : "Coldplay",
+      "AnswerC" : "U2",
+      "AnswerD" : "Useless ID",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Coldplay",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FJonny_Buckland%2C_2011.jpg?alt=media&token=5c46b3a5-1d5b-4994-91da-8bba31bd5146"
+    },
+	"106" : {
+      "AnswerA" : "My Worlds Acoustic",
+      "AnswerB" : "Purpose",
+      "AnswerC" : "Under the Mistletoe",
+      "AnswerD" : "Believe",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Under the Mistletoe",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the name of Justin Bieber's second album?"
+    },
+	"107" : {
+      "AnswerA" : "War",
+      "AnswerB" : "Pop",
+      "AnswerC" : "Songs of Experience",
+      "AnswerD" : "No Line on the Horizon",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Songs of Experience",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FU2_Songs_of_Experience_cover.jpg?alt=media&token=2cd18591-9667-412e-ba27-454d8078df7b"
+    },
+	"108" : {
+      "AnswerA" : "The Formation World Tour",
+      "AnswerB" : "Urban Behavior Tour",
+      "AnswerC" : "Zoo TV Tour",
+      "AnswerD" : "The Fame Ball Tour",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Five",
+      "IsImageQuestion" : "The Fame Ball Tour",
+      "Question" : "What's the name of Lady Gaga's tour in 2009?"
+    },
+	"109" : {
+      "AnswerA" : "Shawn Corey Carter",
+      "AnswerB" : "Christopher Latore",
+      "AnswerC" : "Wallace Latore",
+      "AnswerD" : "Lesane Parish Crooks",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Shawn Corey Carter",
+      "IsImageQuestion" : "false",
+      "Question" : "What's the name of Jay-Z?"
+    },
+	"110" : {
+      "AnswerA" : "King of Rock and Roll",
+      "AnswerB" : "Rock Lover",
+      "AnswerC" : "Pop Master",
+      "AnswerD" : "Music God",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "King of Rock and Roll",
+      "IsImageQuestion" : "false",
+      "Question" : "What's the nickname of Elvis Presley?"
+    },
+	"111" : {
+      "AnswerA" : "Chocolate Factory",
+      "AnswerB" : "Write Me Back",
+      "AnswerC" : "My Love Is Your Love",
+      "AnswerD" : "Like a Virgin",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "My Love Is Your Love",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FWhitney_Houston_Welcome_Home_Heroes_1_cropped.jpg?alt=media&token=0c710b4a-c8e3-43cf-9cb8-86ddbf0e8911"
+    },
+	"112" : {
+      "AnswerA" : "Happy People/U Saved Me",
+      "AnswerB" : "The Buffet",
+      "AnswerC" : "12 Play",
+      "AnswerD" : "They are all related to this image",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "They are all related to this image",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FRkellytrappedinthecloset2007.jpg?alt=media&token=13eda653-52d7-49f5-aaa8-fbd4c66702da"
+    },
+	"113" : {
+      "AnswerA" : "Wonder World Tour",
+      "AnswerB" : "Best of Both Worlds Tour",
+      "AnswerC" : "TrapGold European Tour",
+      "AnswerD" : "Dangerously in Love Tour",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Best of Both Worlds Tour",
+      "IsImageQuestion" : "false",
+      "Question" : "What was the name of Miley Cyrus' first Tour?"
+    },
+	"114" : {
+      "AnswerA" : "A pianist",
+      "AnswerB" : "A violinist",
+      "AnswerC" : "A guitarist",
+      "AnswerD" : "None of the above",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "A guitarist",
+      "IsImageQuestion" : "false",
+      "Question" : "Who is John Petrucci?"
+    },
+	"115" : {
+      "AnswerA" : "Gretchen Menn",
+      "AnswerB" : "Muriel Anderson",
+      "AnswerC" : "Sharon Isbin",
+      "AnswerD" : "Tina Turner",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Gretchen Menn",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2F800px-Guitarist_Gretchen_Menn_2017.jpg?alt=media&token=b7747659-5198-4e87-b2a6-51a922faeb53"
+    },
+	"116" : {
+      "AnswerA" : "Chuck Philips",
+      "AnswerB" : "Stevie Ray Vaughan",
+      "AnswerC" : "Jimi Hendrix",
+      "AnswerD" : "George Clinton",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Jimi Hendrix",
+      "IsImageQuestion" : "true",
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2F800px-Jimi_hendrix_woodstock.jpg?alt=media&token=1be35c7a-0373-4b25-a7e8-5e712ef82480"
+    },
+	"117" : {
+      "AnswerA" : "1983",
+      "AnswerB" : "1994",
+      "AnswerC" : "1981",
+      "AnswerD" : "1977",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "1981",
+      "IsImageQuestion" : "false",
+      "Question" : "In what year Metalica was formed?"
+    },
+	"118" : {
+      "AnswerA" : "Mike Shinoda",
+      "AnswerB" : "Ron McGovney",
+      "AnswerC" : "Joe Hahn",
+      "AnswerD" : "Brad Delson",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Ron McGovney",
+      "IsImageQuestion" : "false",
+      "Question" : "Who is not a member of Linkin Park?"
+    },
+	"119" : {
+      "AnswerA" : "Fender Mustang",
+      "AnswerB" : "Fender Jaguar",
+      "AnswerC" : "Sunburst Mustang",
+      "AnswerD" : "Answers A and B",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Answers A and B",
+      "IsImageQuestion" : "false",
+      "Question" : "What models of guitars Kurt Cobain had?"
+    },
+	"120" : {
+      "AnswerA" : "The Afros",
+      "AnswerB" : "Jazzercise",
+      "AnswerC" : "Jackson 5",
+      "AnswerD" : "R&B Afros",
+      "CategoryId" : "06",
+      "CorrectAnswer" : "Jackson 5",
+      "IsImageQuestion" : "false",
+      "Question" : "What was the name of Michael Jackson's band?"
+    }
+  },
+  "Users" : {
+    "yairnet92" : {
+      "email" : "yairnet92@gmail.com",
+      "password" : "mega123",
+      "username" : "yairnet92"
+    }
+  }
+}
