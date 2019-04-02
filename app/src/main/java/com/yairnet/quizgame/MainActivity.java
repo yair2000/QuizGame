@@ -8,7 +8,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
 import com.google.firebase.database.DataSnapshot;
@@ -24,7 +23,7 @@ public class MainActivity extends AppCompatActivity
 {
     MaterialEditText newUser, newPass, newMail; // Signing Up
     MaterialEditText addUsername, addPassword; // Signing In
-    Button signUpBtn, signInBtn;
+    TextView signUpBtn, signInBtn;
     FirebaseDatabase database;
     DatabaseReference users;
 
@@ -40,8 +39,8 @@ public class MainActivity extends AppCompatActivity
         addUsername = (MaterialEditText)findViewById(R.id.addUsername);
         addPassword = (MaterialEditText)findViewById(R.id.addPassword);
 
-        signInBtn = (Button)findViewById(R.id.signInBtn);
-        signUpBtn = (Button)findViewById(R.id.signUpBtn);
+        signInBtn = (TextView)findViewById(R.id.signInBtn);
+        signUpBtn = (TextView)findViewById(R.id.signUpBtn);
 
         signUpBtn.setOnClickListener(new View.OnClickListener(){
             @Override
