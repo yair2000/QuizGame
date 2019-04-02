@@ -83,7 +83,7 @@
             <TextView
                 android:id="@+id/answerAbtn"
                 android:background="@drawable/btn"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center_vertical"
                 android:layout_width="match_parent"
@@ -93,7 +93,7 @@
             <TextView
                 android:id="@+id/answerBbtn"
                 android:background="@drawable/btn"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center_vertical"
                 android:layout_width="match_parent"
@@ -103,7 +103,7 @@
             <TextView
                 android:id="@+id/answerCbtn"
                 android:background="@drawable/btn"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center_vertical"
                 android:layout_width="match_parent"
@@ -113,7 +113,7 @@
             <TextView
                 android:id="@+id/answerDbtn"
                 android:background="@drawable/btn"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center_vertical"
                 android:layout_width="match_parent"
