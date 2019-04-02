@@ -68,21 +68,29 @@
                 android:layout_margin="8dp"
                 android:weightSum="2">
 
-                <Button
+                <TextView
                     android:id="@+id/signUpBtn"
+                    android:background="@drawable/btn"
+                    android:text="Sign Up"
+                    android:textColor="#ffffff"
+                    android:textAlignment="center"
+                    android:gravity="center_vertical"
                     android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Sign Up"/>
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
 
-                <Button
+                <TextView
                     android:id="@+id/signInBtn"
+                    android:background="@drawable/btn"
+                    android:text="Sign In"
+                    android:textColor="#ffffff"
+                    android:textAlignment="center"
+                    android:gravity="center_vertical"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Sign In"/>
+                    android:layout_weight="1"/>
             </LinearLayout>
 
         </RelativeLayout>
-
+    
 </RelativeLayout>
