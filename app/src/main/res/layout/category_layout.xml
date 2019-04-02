@@ -15,11 +15,10 @@
         android:id="@+id/nameCategory"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Category Name"
-        android:textColor="#000000"
+        android:background="@drawable/btn"
+        android:textColor="#ffffff"
         android:textSize="24sp"
         android:gravity="center"
-        android:layout_alignParentBottom="true"
-        android:background="#1d68d1"/>
+        android:layout_alignParentBottom="true"/>
 
 </RelativeLayout>
