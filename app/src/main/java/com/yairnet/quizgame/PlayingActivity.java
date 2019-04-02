@@ -39,10 +39,10 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
         progress = (ProgressBar)findViewById(R.id.progress);
 
         // Buttons
-        btnA = (Button)findViewById(R.id.answerAbtn);
-        btnB = (Button)findViewById(R.id.answerBbtn);
-        btnC = (Button)findViewById(R.id.answerCbtn);
-        btnD = (Button)findViewById(R.id.answerDbtn);
+        btnA = (TextView)findViewById(R.id.answerAbtn);
+        btnB = (TextView)findViewById(R.id.answerBbtn);
+        btnC = (TextView)findViewById(R.id.answerCbtn);
+        btnD = (TextView)findViewById(R.id.answerDbtn);
 
         btnA.setOnClickListener(this);
         btnB.setOnClickListener(this);
@@ -55,7 +55,7 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
         countDown.cancel();
 
         if(index < totalQuestion){// If there are still questions in the list
-            Button clickedButton = (Button)v;
+            TextView clickedButton = (TextView)v;
             if(clickedButton.getText().equals(Common.questionList.get(index).getCorrectAnswer())){ // If you clicked on the correct answer
                 score+=10; // Add 10 points
                 correctAnswer++;
