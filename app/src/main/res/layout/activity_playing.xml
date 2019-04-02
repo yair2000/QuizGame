@@ -19,8 +19,8 @@
         android:gravity="center"
         android:visibility="visible"
         android:textSize="20sp"
-        android:textColor="@android:color/black"
-        android:background="@color/common_google_signin_btn_text_dark_pressed"
+        android:textColor="#000000"
+        android:background="#ffffff"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
@@ -56,7 +56,7 @@
                     android:textColor="@mipmap/ic_launcher"
                     android:text="0"
                     android:textSize="30sp"
-                    android:textColor="@android:color/black"/>
+                    android:textColor="#000000"/>
 
                 <TextView
                     android:id="@+id/totalQuestionTxt"
@@ -67,7 +67,7 @@
                     android:textColor="@mipmap/ic_launcher"
                     android:text="0"
                     android:textSize="30sp"
-                    android:textColor="@android:color/black"/>
+                    android:textColor="#000000"/>
 
             </LinearLayout>
 
