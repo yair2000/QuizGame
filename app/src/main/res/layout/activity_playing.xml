@@ -80,34 +80,42 @@
                 android:layout_marginRight="8dp"
                 android:max="5"/>
 
-            <Button
+            <TextView
                 android:id="@+id/answerAbtn"
+                android:background="@drawable/btn"
                 android:text="Answer A"
-                android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
 
-            <Button
+            <TextView
                 android:id="@+id/answerBbtn"
+                android:background="@drawable/btn"
                 android:text="Answer B"
-                android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
 
-            <Button
+            <TextView
                 android:id="@+id/answerCbtn"
+                android:background="@drawable/btn"
                 android:text="Answer C"
-                android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
 
-            <Button
+            <TextView
                 android:id="@+id/answerDbtn"
+                android:background="@drawable/btn"
                 android:text="Answer D"
-                android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
