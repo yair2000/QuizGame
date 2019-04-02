@@ -78,7 +78,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:max="5"/>
+                android:max="7"/>
 
             <TextView
                 android:id="@+id/answerAbtn"
