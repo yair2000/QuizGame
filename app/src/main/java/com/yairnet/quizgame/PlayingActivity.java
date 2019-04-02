@@ -5,7 +5,6 @@ import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
@@ -23,8 +22,8 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
 
     ProgressBar progress;
     ImageView question_image;
-    Button btnA,btnB,btnC,btnD;
-    TextView scoreTxt,questionNumTxt,question_text;
+    TextView btnA, btnB, btnC, btnD;
+    TextView scoreTxt, questionNumTxt, question_text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
@@ -55,8 +54,8 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
         countDown.cancel();
 
         if(index < totalQuestion){// If there are still questions in the list
-            TextView clickedButton = (TextView)v;
-            if(clickedButton.getText().equals(Common.questionList.get(index).getCorrectAnswer())){ // If you clicked on the correct answer
+            TextView click = (TextView)v;
+            if(click.getText().equals(Common.questionList.get(index).getCorrectAnswer())){ // If you clicked on the correct answer
                 score+=10; // Add 10 points
                 correctAnswer++;
                 showQuestion(++index); // Next question
