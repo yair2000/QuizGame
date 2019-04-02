@@ -24,7 +24,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Score : 0"
-                android:textColor="@android:color/black"
+                android:textColor="#000000"
                 android:textSize="20sp"/>
 
             <TextView
@@ -32,17 +32,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Passed : 0"
-                android:textColor="@android:color/black"
+                android:textColor="#000000"
                 android:textSize="20sp"/>
 
-            <Button
+            <TextView
                 android:id="@+id/tryAgainBtn"
+                android:background="@drawable/btn"
+                android:text="Try Again"
+                android:textColor="#ffffff"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="8dp"
-                android:text="Try Again"/>
+                android:layout_marginBottom="8dp"/>
 
         </LinearLayout>
 
