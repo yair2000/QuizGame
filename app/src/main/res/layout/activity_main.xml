@@ -41,8 +41,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Username"
-                    app:met_baseColor="@color/colorPrimary"
-                    app:met_primaryColor="@color/colorPrimary"
+                    app:met_baseColor="@color/colorAccent"
+                    app:met_primaryColor="@color/colorAccent"
                     app:met_floatingLabel="highlight"
                     app:met_singleLineEllipsis="true"/>
 
@@ -52,8 +52,8 @@
                     android:layout_height="wrap_content"
                     android:hint="Password"
                     android:inputType="textPassword"
-                    app:met_baseColor="@color/colorPrimary"
-                    app:met_primaryColor="@color/colorPrimary"
+                    app:met_baseColor="@color/colorAccent"
+                    app:met_primaryColor="@color/colorAccent"
                     app:met_floatingLabel="highlight"
                     app:met_singleLineEllipsis="true"/>
             </LinearLayout>
