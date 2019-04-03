@@ -17,8 +17,8 @@
             android:hint="Username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:met_baseColor="@color/colorPrimary"
-            app:met_primaryColor="@color/colorPrimary"
+            app:met_baseColor="@color/colorText"
+            app:met_primaryColor="@color/colorText"
             app:met_floatingLabel="highlight"
             app:met_singleLineEllipsis="true"/>
 
@@ -28,8 +28,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword"
-            app:met_baseColor="@color/colorPrimary"
-            app:met_primaryColor="@color/colorPrimary"
+            app:met_baseColor="@color/colorText"
+            app:met_primaryColor="@color/colorText"
             app:met_floatingLabel="highlight"
             app:met_singleLineEllipsis="true"/>
 
@@ -39,8 +39,8 @@
             android:layout_height="wrap_content"
             android:hint="Email"
             android:inputType="textEmailAddress"
-            app:met_baseColor="@color/colorPrimary"
-            app:met_primaryColor="@color/colorPrimary"
+            app:met_baseColor="@color/colorText"
+            app:met_primaryColor="@color/colorText"
             app:met_floatingLabel="highlight"
             app:met_singleLineEllipsis="true"/>
     </LinearLayout>
