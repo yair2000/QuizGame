@@ -16,13 +16,134 @@
       "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies%20Category.jpg?alt=media&token=10936954-e8d4-4f47-bbb5-d9ed1150c9e8",
       "Name" : "Companies"
     },
-	"05" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies%20Category.jpg?alt=media&token=b4fe1027-d809-4760-8a16-51ca1b37bc21",
+    "05" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies%20Category.jpg?alt=media&token=7459bcbe-3072-4c13-987d-4b6d1f26ac58",
       "Name" : "Movies"
     },
-	"06" : {
+    "06" : {
       "Image" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music%20Category.jpg?alt=media&token=9ead2522-e392-4494-9919-b9d1f9b8385f",
       "Name" : "Music"
+    }
+  },
+  "Question Score" : {
+    "rxplus_01" : {
+      "categoryId" : "01",
+      "categoryName" : "Anime",
+      "question_Score" : "rxplus_01",
+      "score" : "20",
+      "user" : "rxplus"
+    },
+    "rxplus_02" : {
+      "categoryId" : "02",
+      "categoryName" : "Gaming",
+      "question_Score" : "rxplus_02",
+      "score" : "0",
+      "user" : "rxplus"
+    },
+    "rxplus_03" : {
+      "categoryId" : "03",
+      "categoryName" : "Smartphones",
+      "question_Score" : "rxplus_03",
+      "score" : "0",
+      "user" : "rxplus"
+    },
+    "rxplus_04" : {
+      "categoryId" : "04",
+      "categoryName" : "Companies",
+      "question_Score" : "rxplus_04",
+      "score" : "20",
+      "user" : "rxplus"
+    },
+    "rxplus_05" : {
+      "categoryId" : "05",
+      "categoryName" : "Movies",
+      "question_Score" : "rxplus_05",
+      "score" : "30",
+      "user" : "rxplus"
+    },
+    "rxplus_06" : {
+      "categoryId" : "06",
+      "categoryName" : "Music",
+      "question_Score" : "rxplus_06",
+      "score" : "0",
+      "user" : "rxplus"
+    },
+    "test01_01" : {
+      "categoryId" : "01",
+      "categoryName" : "Anime",
+      "question_Score" : "test01_01",
+      "score" : "10",
+      "user" : "test01"
+    },
+    "test01_02" : {
+      "categoryId" : "02",
+      "categoryName" : "Gaming",
+      "question_Score" : "test01_02",
+      "score" : "30",
+      "user" : "test01"
+    },
+    "yairnet92_01" : {
+      "categoryId" : "01",
+      "categoryName" : "Anime",
+      "question_Score" : "yairnet92_01",
+      "score" : "190",
+      "user" : "yairnet92"
+    },
+    "yairnet92_02" : {
+      "categoryId" : "02",
+      "categoryName" : "Gaming",
+      "question_Score" : "yairnet92_02",
+      "score" : "70",
+      "user" : "yairnet92"
+    },
+    "yairnet92_03" : {
+      "categoryId" : "03",
+      "categoryName" : "Smartphones",
+      "question_Score" : "yairnet92_03",
+      "score" : "0",
+      "user" : "yairnet92"
+    },
+    "yairnet92_04" : {
+      "categoryId" : "04",
+      "categoryName" : "Companies",
+      "question_Score" : "yairnet92_04",
+      "score" : "140",
+      "user" : "yairnet92"
+    },
+    "yairnet92_05" : {
+      "categoryId" : "05",
+      "categoryName" : "Movies",
+      "question_Score" : "yairnet92_05",
+      "score" : "0",
+      "user" : "yairnet92"
+    },
+    "yairnet92_06" : {
+      "categoryId" : "06",
+      "categoryName" : "Music",
+      "question_Score" : "yairnet92_06",
+      "score" : "20",
+      "user" : "yairnet92"
+    },
+    "习大大_01" : {
+      "categoryId" : "01",
+      "categoryName" : "Anime",
+      "question_Score" : "习大大_01",
+      "score" : "10",
+      "user" : "习大大"
+    },
+    "习大大_02" : {
+      "categoryId" : "02",
+      "categoryName" : "Gaming",
+      "question_Score" : "习大大_02",
+      "score" : "0",
+      "user" : "习大大"
+    },
+    "习大大_05" : {
+      "categoryId" : "05",
+      "categoryName" : "Movies",
+      "question_Score" : "习大大_05",
+      "score" : "0",
+      "user" : "习大大"
     }
   },
   "Questions" : {
@@ -126,7 +247,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What the demographic of the franchise Pretty Cure?"
     },
-	"11" : {
+    "11" : {
       "AnswerA" : "Esdeath",
       "AnswerB" : "Komagata Yumi",
       "AnswerC" : "Kagura",
@@ -136,7 +257,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2Fmaxresdefault.jpg?alt=media&token=3cb6936c-4451-4639-bc1e-fa7af2aca4b8"
     },
-	"12" : {
+    "12" : {
       "AnswerA" : "Yoko Kamio",
       "AnswerB" : "George Morikawa",
       "AnswerC" : "Hirohiko Araki",
@@ -146,7 +267,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who created Astro Boy?"
     },
-	"13" : {
+    "13" : {
       "AnswerA" : "33 Million",
       "AnswerB" : "26.5 Million",
       "AnswerC" : "41 Million",
@@ -156,7 +277,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FAsari-chan.jpg?alt=media&token=12b0d800-9848-46ab-8a74-bc66c7c3b90c"
     },
-	"14" : {
+    "14" : {
       "AnswerA" : "Xing Huo",
       "AnswerB" : "Takeshi Masu",
       "AnswerC" : "Fei-Wang Reed",
@@ -166,7 +287,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FFei_wang_reed_render.png?alt=media&token=e6d8ec0d-3fb1-43c7-9441-9cba8e1c118b"
     },
-	"15" : {
+    "15" : {
       "AnswerA" : "Killua Zoldyck",
       "AnswerB" : "Gon Freecss",
       "AnswerC" : "Yoshimura",
@@ -176,7 +297,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FGon-2011.png?alt=media&token=3276db9e-f133-45e6-bf79-9f7e95149c51"
     },
-	"16" : {
+    "16" : {
       "AnswerA" : "Griffith",
       "AnswerB" : "Hiroshi Kato",
       "AnswerC" : "Ken Kaneki",
@@ -186,7 +307,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who is the main character in Tokyo Ghoul?"
     },
-	"17" : {
+    "17" : {
       "AnswerA" : "Hiro Mashima",
       "AnswerB" : "Takehiko Inoue",
       "AnswerC" : "Mitsuru Adachi",
@@ -196,7 +317,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FHajime_Isayama.png?alt=media&token=ffd70a81-0308-4e6c-beb0-ba72d8111c9a"
     },
-	"18" : {
+    "18" : {
       "AnswerA" : "Katsuki Bakugo",
       "AnswerB" : "Escanor",
       "AnswerC" : "Kohaku",
@@ -206,7 +327,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Anime_Pics%2FKatsuki_Bakugo_School_Uniform_Full_Body.png?alt=media&token=1ca4bdc0-d6e1-4fdf-b9e2-fb376776dd72"
     },
-	"19" : {
+    "19" : {
       "AnswerA" : "A special type of basket",
       "AnswerB" : "A Divine Place",
       "AnswerC" : "A 16-year old teenager",
@@ -216,7 +337,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What revolves around Fruits Basket?"
     },
-	"20" : {
+    "20" : {
       "AnswerA" : "Hokuto Shinken",
       "AnswerB" : "Kiba Inuzuka",
       "AnswerC" : "Amy Yoshida",
@@ -326,7 +447,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What type of camera the Xbox One has?"
     },
-	"31" : {
+    "31" : {
       "AnswerA" : "FIFA 15",
       "AnswerB" : "FIFA 13",
       "AnswerC" : "Pro Evolution Soccer 2019",
@@ -336,7 +457,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FFIFA-13-Wii-u.jpg?alt=media&token=a49de4ed-a475-431c-bf36-07b160634d57"
     },
-	"32" : {
+    "32" : {
       "AnswerA" : "Three",
       "AnswerB" : "Two",
       "AnswerC" : "Five",
@@ -346,7 +467,7 @@
       "IsImageQuestion" : "false",
       "Question" : "On how many consoles can Call of Duty 3 run?"
     },
-	"33" : {
+    "33" : {
       "AnswerA" : "Call of Duty Black Ops 4",
       "AnswerB" : "Need for Speed Payback",
       "AnswerC" : "Dead or Alive 6",
@@ -356,7 +477,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Which of these games were released in 2019?"
     },
-	"34" : {
+    "34" : {
       "AnswerA" : "The Legend of Zelda: Four Swords Adventures",
       "AnswerB" : "GameCube",
       "AnswerC" : "Nintendo",
@@ -366,7 +487,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2F4swordsadvscreen.png?alt=media&token=68fada0e-411c-4ef0-b3ee-e0a850d6c36a"
     },
-	"35" : {
+    "35" : {
       "AnswerA" : "Counter Strike",
       "AnswerB" : "Devil May Cry 5",
       "AnswerC" : "DOOM",
@@ -376,7 +497,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FDevil_May_Cry_5_Nero_gameplay_screenshot.jpg?alt=media&token=8fcd187f-484a-4370-8ca6-aa47a4dae4b9"
     },
-	"36" : {
+    "36" : {
       "AnswerA" : "3rd party joysticks makers",
       "AnswerB" : "Gaming engine",
       "AnswerC" : "Game developers",
@@ -386,7 +507,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What are EA Games known for?"
     },
-	"37" : {
+    "37" : {
       "AnswerA" : "Nintendo DS",
       "AnswerB" : "Nintendo 2DS",
       "AnswerC" : "Nintendo 3DS XL",
@@ -396,7 +517,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Gaming_Pics%2FNewNintendo3DS.png?alt=media&token=8e753dbd-2143-439c-a842-5a7e1d4ae307"
     },
-	"38" : {
+    "38" : {
       "AnswerA" : "Unreal Engine",
       "AnswerB" : "Snowdrop",
       "AnswerC" : "Frostbite",
@@ -406,7 +527,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What is the gaming engine of South Park The Fractured but Whole?"
     },
-	"39" : {
+    "39" : {
       "AnswerA" : "World of warcraft",
       "AnswerB" : "Rakion",
       "AnswerC" : "Prince of Persia",
@@ -416,7 +537,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Which of these game franchises did Ubisoft publish?"
     },
-	"40" : {
+    "40" : {
       "AnswerA" : "VR Set",
       "AnswerB" : "3rd party console Joystick",
       "AnswerC" : "Nintendo Switch Controllers",
@@ -526,7 +647,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What is Android One?"
     },
-	"51" : {
+    "51" : {
       "AnswerA" : "Same screen resolution",
       "AnswerB" : "Same screen type",
       "AnswerC" : "Same processor",
@@ -536,7 +657,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What the iPhone X, iPhone XS & iPhone XS Max have in common?"
     },
-	"52" : {
+    "52" : {
       "AnswerA" : "Nokia 4.2",
       "AnswerB" : "Samsung Galaxy J2 Core",
       "AnswerC" : "Xiaomi Mi 9",
@@ -546,7 +667,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Which of these smartphones have 4GB of RAM?"
     },
-	"53" : {
+    "53" : {
       "AnswerA" : "Oppo Find X",
       "AnswerB" : "Xiaomi Mi Max 3",
       "AnswerC" : "HTC Desire 12s",
@@ -556,7 +677,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2F131953-v3-htc-desire-12s-mobile-phone-large-1.jpg?alt=media&token=f28496a9-f5f6-439d-a017-536e6f1fad00"
     },
-	"54" : {
+    "54" : {
       "AnswerA" : "alcatel 3L",
       "AnswerB" : "alcatel 5v",
       "AnswerC" : "alcatel 1s",
@@ -566,7 +687,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2Fa3_lite_metallic_black_front-min.png?alt=media&token=1b2af0bc-5bac-4f3d-a445-c350058cb057"
     },
-	"55" : {
+    "55" : {
       "AnswerA" : "A qHD+ smartphone",
       "AnswerB" : "A 6GB RAM smartphone",
       "AnswerC" : "A 2017 smartphone",
@@ -576,7 +697,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What is Nokia 9 PureView?"
     },
-	"56" : {
+    "56" : {
       "AnswerA" : "EMUI",
       "AnswerB" : "SenseUX",
       "AnswerC" : "OppoUX",
@@ -586,7 +707,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What is the name of Oppo's Android skin?"
     },
-	"57" : {
+    "57" : {
       "AnswerA" : "Xiaomi Mi Mix 3",
       "AnswerB" : "Oppo F11 Pro",
       "AnswerC" : "Honor Magic 2 3D",
@@ -596,7 +717,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FHuawei-Honor-Magic-2-3D-500x500.jpg?alt=media&token=551acdcb-e5cb-455c-a7f5-477c99a63c3e"
     },
-	"58" : {
+    "58" : {
       "AnswerA" : "Samsung Galaxy A40",
       "AnswerB" : "Samsung Galaxy A30",
       "AnswerC" : "Samsung Galaxy A20",
@@ -606,7 +727,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Smartphone_Pics%2FSamsung-Galaxy-A30.jpg?alt=media&token=d484cb08-f181-4885-801b-1d7402023886"
     },
-	"59" : {
+    "59" : {
       "AnswerA" : "LG",
       "AnswerB" : "Royole",
       "AnswerC" : "Samsung",
@@ -616,7 +737,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who created the first foldable smartphone?"
     },
-	"60" : {
+    "60" : {
       "AnswerA" : "6.1 inches",
       "AnswerB" : "6.33 inches",
       "AnswerC" : "5.8 inches",
@@ -726,17 +847,17 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fbmwmercedesaudilogos.png?alt=media&token=03f4421f-431a-4231-ad7f-91542620b6b7"
     },
-	"71" : {
-      "AnswerA" : "Alternate Wire Section",
-      "AnswerB" : "Amazon Web Services",
-      "AnswerC" : "Animal Wealth Service",
-      "AnswerD" : "None of the above",
+    "71" : {
+      "AnswerA" : "Aerobotics",
+      "AnswerB" : "Checkpoint",
+      "AnswerC" : "Alphabet",
+      "AnswerD" : "COMPAQ",
       "CategoryId" : "04",
-      "CorrectAnswer" : "Amazon Web Services",
+      "CorrectAnswer" : "Checkpoint",
       "IsImageQuestion" : "true",
-      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fawslogo.jpg?alt=media&token=d51a18c6-376e-43a4-809c-9127305e675d"
+      "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fcheckpointlogo.jpg?alt=media&token=e40db8a0-f90e-41c6-83df-ed7ca9b1e57f"
     },
-	"72" : {
+    "72" : {
       "AnswerA" : "Gunpei Yokoi",
       "AnswerB" : "Genyo Takeda",
       "AnswerC" : "Fusajiro Yamauchi",
@@ -746,7 +867,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who founded Nintendo?"
     },
-	"73" : {
+    "73" : {
       "AnswerA" : "Paris",
       "AnswerB" : "Orleans",
       "AnswerC" : "Troyes",
@@ -756,7 +877,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Where are LaCoste's headquarters?"
     },
-	"74" : {
+    "74" : {
       "AnswerA" : "Chanel 5",
       "AnswerB" : "5 N's",
       "AnswerC" : "N powered by 5",
@@ -766,7 +887,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fnflogo.jpg?alt=media&token=f2f8ea40-bd93-4839-9351-c41dc72d3337"
     },
-	"75" : {
+    "75" : {
       "AnswerA" : "Fashion",
       "AnswerB" : "Weapons",
       "AnswerC" : "Bluetooth Speakers",
@@ -776,7 +897,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fdecathlon.png?alt=media&token=1c9b2e52-b5e9-48ff-b3ff-51590638d5d7"
     },
-	"76" : {
+    "76" : {
       "AnswerA" : "Kiloblaster",
       "AnswerB" : "Xargon",
       "AnswerC" : "Robo Recall",
@@ -786,7 +907,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fepicgameslogo.png?alt=media&token=c48f1153-c11f-43d3-94d9-f2373ee46ef0"
     },
-	"77" : {
+    "77" : {
       "AnswerA" : "VR Sets",
       "AnswerB" : "Graphic Cards",
       "AnswerC" : "Keyboards",
@@ -796,7 +917,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What are Nvidia's products?"
     },
-	"78" : {
+    "78" : {
       "AnswerA" : "Intel",
       "AnswerB" : "Nasa",
       "AnswerC" : "Harman",
@@ -806,7 +927,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Companies_Pics%2Fharmanlogo.png?alt=media&token=6b256d05-4c95-430f-962c-a03bfd19062f"
     },
-	"79" : {
+    "79" : {
       "AnswerA" : "Lift Grand",
       "AnswerB" : "Light Gifts",
       "AnswerC" : "Liquid Generators",
@@ -816,7 +937,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What was LG's former name?"
     },
-	"80" : {
+    "80" : {
       "AnswerA" : "Seven",
       "AnswerB" : "Four",
       "AnswerC" : "Five",
@@ -826,7 +947,7 @@
       "IsImageQuestion" : "false",
       "Question" : "How many emblems did mazda have?"
     },
-	"81" : {
+    "81" : {
       "AnswerA" : "20,000 Leagues Under the Sea",
       "AnswerB" : "Maleficent",
       "AnswerC" : "Up",
@@ -926,7 +1047,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fdanielradcliffe.jpg?alt=media&token=c868569e-7d5a-4e4a-b26d-e41d344f67e8"
     },
-	"91" : {
+    "91" : {
       "AnswerA" : "El Cid",
       "AnswerB" : "The Adventures of Tom Thumb and Thumbelina",
       "AnswerC" : "The Return of the King",
@@ -936,7 +1057,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Flordoftheringsiiiposter.jpg?alt=media&token=7c433a28-c6b1-4444-80c2-e591184d6d39"
     },
-	"92" : {
+    "92" : {
       "AnswerA" : "Five",
       "AnswerB" : "Three",
       "AnswerC" : "One",
@@ -946,7 +1067,7 @@
       "IsImageQuestion" : "false",
       "Question" : "In how many movie did Al Pacino play between 2000 and 2005?"
     },
-	"93" : {
+    "93" : {
       "AnswerA" : "Brave",
       "AnswerB" : "The Prince of Egypt",
       "AnswerC" : "Castaway Cowboy",
@@ -956,7 +1077,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Which of the following movies are from Dreamworks?"
     },
-	"94" : {
+    "94" : {
       "AnswerA" : "The Terminator",
       "AnswerB" : "Aliens",
       "AnswerC" : "The Abyss",
@@ -966,7 +1087,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Fjamescameron.jpg?alt=media&token=99fd70ad-7518-4eee-9aed-82a501528716"
     },
-	"95" : {
+    "95" : {
       "AnswerA" : "1.5 Billion Dollars",
       "AnswerB" : "2.048 Billion Dollars",
       "AnswerC" : "1.7 Billion Dollars",
@@ -976,7 +1097,7 @@
       "IsImageQuestion" : "false",
       "Question" : "How much money did Avengers Infinity War gross?"
     },
-	"96" : {
+    "96" : {
       "AnswerA" : "Max Schlesinger",
       "AnswerB" : "Kaulder",
       "AnswerC" : "Shane Wolfe",
@@ -986,7 +1107,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Movies_Pics%2Ftlwhposter.jpg?alt=media&token=4622345e-dc98-4a02-9459-9312fe981d73"
     },
-	"97" : {
+    "97" : {
       "AnswerA" : "US & Italy",
       "AnswerB" : "US & Japan",
       "AnswerC" : "US & England",
@@ -996,7 +1117,7 @@
       "IsImageQuestion" : "false",
       "Question" : "In what countries the Fantastic Four was filmed?"
     },
-	"98" : {
+    "98" : {
       "AnswerA" : "James Marsden",
       "AnswerB" : "Ed Skrein",
       "AnswerC" : "Stephen Merchant",
@@ -1006,7 +1127,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who played Professor X in the first X-Men movie?"
     },
-	"99" : {
+    "99" : {
       "AnswerA" : "An Egyptian priest from the Middle East",
       "AnswerB" : "A street urchin",
       "AnswerC" : "A magical wizard",
@@ -1016,7 +1137,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who is Aladdin in the animated movie?"
     },
-	"100" : {
+    "100" : {
       "AnswerA" : "1984",
       "AnswerB" : "1973",
       "AnswerC" : "1977",
@@ -1026,7 +1147,7 @@
       "IsImageQuestion" : "false",
       "Question" : "In what year the first Star Wars movie aired?"
     },
-	"101" : {
+    "101" : {
       "AnswerA" : "Her Majesty",
       "AnswerB" : "For No One",
       "AnswerC" : "Oh! Darling",
@@ -1036,7 +1157,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What is the name of the 4th song in the beatles' album, Abbey Road?"
     },
-	"102" : {
+    "102" : {
       "AnswerA" : "Adam Clayton",
       "AnswerB" : "Jonny Buckland",
       "AnswerC" : "Philip Selway",
@@ -1046,7 +1167,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Which of the following is a member in Pearl Jam?"
     },
-	"103" : {
+    "103" : {
       "AnswerA" : "Ghost Stories",
       "AnswerB" : "Zooropa",
       "AnswerC" : "No Line on the Horizon",
@@ -1056,7 +1177,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FColdplay_-_Ghost_Stories.png?alt=media&token=8a08ee02-b992-43ca-9c88-1dd8967cecc1"
     },
-	"104" : {
+    "104" : {
       "AnswerA" : "Iggy Azalea",
       "AnswerB" : "Lorde",
       "AnswerC" : "Emma Bunton",
@@ -1066,7 +1187,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2F800px-Lorde_Brisbane_Nov_2017_(cropped).jpg?alt=media&token=65c7c2f7-a641-4542-bd3d-e022f064c031"
     },
-	"105" : {
+    "105" : {
       "AnswerA" : "Radiohead",
       "AnswerB" : "Coldplay",
       "AnswerC" : "U2",
@@ -1076,7 +1197,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FJonny_Buckland%2C_2011.jpg?alt=media&token=5c46b3a5-1d5b-4994-91da-8bba31bd5146"
     },
-	"106" : {
+    "106" : {
       "AnswerA" : "My Worlds Acoustic",
       "AnswerB" : "Purpose",
       "AnswerC" : "Under the Mistletoe",
@@ -1086,7 +1207,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What is the name of Justin Bieber's second album?"
     },
-	"107" : {
+    "107" : {
       "AnswerA" : "War",
       "AnswerB" : "Pop",
       "AnswerC" : "Songs of Experience",
@@ -1096,7 +1217,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FU2_Songs_of_Experience_cover.jpg?alt=media&token=2cd18591-9667-412e-ba27-454d8078df7b"
     },
-	"108" : {
+    "108" : {
       "AnswerA" : "The Formation World Tour",
       "AnswerB" : "Urban Behavior Tour",
       "AnswerC" : "Zoo TV Tour",
@@ -1106,7 +1227,7 @@
       "IsImageQuestion" : "The Fame Ball Tour",
       "Question" : "What's the name of Lady Gaga's tour in 2009?"
     },
-	"109" : {
+    "109" : {
       "AnswerA" : "Shawn Corey Carter",
       "AnswerB" : "Christopher Latore",
       "AnswerC" : "Wallace Latore",
@@ -1116,7 +1237,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What's the name of Jay-Z?"
     },
-	"110" : {
+    "110" : {
       "AnswerA" : "King of Rock and Roll",
       "AnswerB" : "Rock Lover",
       "AnswerC" : "Pop Master",
@@ -1126,7 +1247,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What's the nickname of Elvis Presley?"
     },
-	"111" : {
+    "111" : {
       "AnswerA" : "Chocolate Factory",
       "AnswerB" : "Write Me Back",
       "AnswerC" : "My Love Is Your Love",
@@ -1136,7 +1257,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FWhitney_Houston_Welcome_Home_Heroes_1_cropped.jpg?alt=media&token=0c710b4a-c8e3-43cf-9cb8-86ddbf0e8911"
     },
-	"112" : {
+    "112" : {
       "AnswerA" : "Happy People/U Saved Me",
       "AnswerB" : "The Buffet",
       "AnswerC" : "12 Play",
@@ -1146,7 +1267,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2FRkellytrappedinthecloset2007.jpg?alt=media&token=13eda653-52d7-49f5-aaa8-fbd4c66702da"
     },
-	"113" : {
+    "113" : {
       "AnswerA" : "Wonder World Tour",
       "AnswerB" : "Best of Both Worlds Tour",
       "AnswerC" : "TrapGold European Tour",
@@ -1156,7 +1277,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What was the name of Miley Cyrus' first Tour?"
     },
-	"114" : {
+    "114" : {
       "AnswerA" : "A pianist",
       "AnswerB" : "A violinist",
       "AnswerC" : "A guitarist",
@@ -1166,7 +1287,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who is John Petrucci?"
     },
-	"115" : {
+    "115" : {
       "AnswerA" : "Gretchen Menn",
       "AnswerB" : "Muriel Anderson",
       "AnswerC" : "Sharon Isbin",
@@ -1176,7 +1297,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2F800px-Guitarist_Gretchen_Menn_2017.jpg?alt=media&token=b7747659-5198-4e87-b2a6-51a922faeb53"
     },
-	"116" : {
+    "116" : {
       "AnswerA" : "Chuck Philips",
       "AnswerB" : "Stevie Ray Vaughan",
       "AnswerC" : "Jimi Hendrix",
@@ -1186,7 +1307,7 @@
       "IsImageQuestion" : "true",
       "Question" : "https://firebasestorage.googleapis.com/v0/b/quizactivity-3fa8b.appspot.com/o/Music_Pics%2F800px-Jimi_hendrix_woodstock.jpg?alt=media&token=1be35c7a-0373-4b25-a7e8-5e712ef82480"
     },
-	"117" : {
+    "117" : {
       "AnswerA" : "1983",
       "AnswerB" : "1994",
       "AnswerC" : "1981",
@@ -1196,7 +1317,7 @@
       "IsImageQuestion" : "false",
       "Question" : "In what year Metalica was formed?"
     },
-	"118" : {
+    "118" : {
       "AnswerA" : "Mike Shinoda",
       "AnswerB" : "Ron McGovney",
       "AnswerC" : "Joe Hahn",
@@ -1206,7 +1327,7 @@
       "IsImageQuestion" : "false",
       "Question" : "Who is not a member of Linkin Park?"
     },
-	"119" : {
+    "119" : {
       "AnswerA" : "Fender Mustang",
       "AnswerB" : "Fender Jaguar",
       "AnswerC" : "Sunburst Mustang",
@@ -1216,7 +1337,7 @@
       "IsImageQuestion" : "false",
       "Question" : "What models of guitars Kurt Cobain had?"
     },
-	"120" : {
+    "120" : {
       "AnswerA" : "The Afros",
       "AnswerB" : "Jazzercise",
       "AnswerC" : "Jackson 5",
@@ -1227,11 +1348,53 @@
       "Question" : "What was the name of Michael Jackson's band?"
     }
   },
+  "Ranking" : {
+    "lanzer" : {
+      "score" : 0,
+      "userName" : "lanzer"
+    },
+    "rxplus" : {
+      "score" : 70,
+      "userName" : "rxplus"
+    },
+    "test01" : {
+      "score" : 10,
+      "userName" : "test01"
+    },
+    "yairnet92" : {
+      "score" : 420,
+      "userName" : "yairnet92"
+    },
+    "习大大" : {
+      "score" : 10,
+      "userName" : "习大大"
+    }
+  },
   "Users" : {
+    "lanzer" : {
+      "email" : "projectboracay2@gmail.com",
+      "password" : "FY19boracay!",
+      "username" : "lanzer"
+    },
+    "rxplus" : {
+      "email" : "rxplus2018rxplus2018@gmail.com",
+      "password" : "123456qwerty",
+      "username" : "rxplus"
+    },
+    "test01" : {
+      "email" : "test01@gmail.com",
+      "password" : "testtest0101",
+      "username" : "test01"
+    },
     "yairnet92" : {
       "email" : "yairnet92@gmail.com",
       "password" : "mega123",
       "username" : "yairnet92"
+    },
+    "习大大" : {
+      "email" : "814747582@qq.com",
+      "password" : "123456",
+      "username" : "习大大"
     }
   }
 }
