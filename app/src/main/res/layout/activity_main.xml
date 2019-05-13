@@ -71,7 +71,7 @@
                 <TextView
                     android:id="@+id/signUpBtn"
                     android:background="@drawable/btn"
-                    android:text="Sign Up"
+                    android:text="Create Account"
                     android:textColor="#ffffff"
                     android:textAlignment="center"
                     android:gravity="center_vertical"
@@ -82,7 +82,7 @@
                 <TextView
                     android:id="@+id/signInBtn"
                     android:background="@drawable/btn"
-                    android:text="Sign In"
+                    android:text="Start Playing"
                     android:textColor="#ffffff"
                     android:textAlignment="center"
                     android:gravity="center_vertical"
