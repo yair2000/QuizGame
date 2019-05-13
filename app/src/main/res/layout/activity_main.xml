@@ -22,8 +22,6 @@
             android:layout_margin="8dp">
 
             <android.support.v7.widget.CardView
-                xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:app="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/login_info"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -41,8 +39,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Username"
-                    app:met_baseColor="@color/colorAccent"
-                    app:met_primaryColor="@color/colorAccent"
+                    app:met_baseColor="@color/txtFieldColor"
+                    app:met_primaryColor="@color/txtFieldColor"
                     app:met_floatingLabel="highlight"
                     app:met_singleLineEllipsis="true"/>
 
@@ -52,8 +50,8 @@
                     android:layout_height="wrap_content"
                     android:hint="Password"
                     android:inputType="textPassword"
-                    app:met_baseColor="@color/colorAccent"
-                    app:met_primaryColor="@color/colorAccent"
+                    app:met_baseColor="@color/txtFieldColor"
+                    app:met_primaryColor="@color/txtFieldColor"
                     app:met_floatingLabel="highlight"
                     app:met_singleLineEllipsis="true"/>
             </LinearLayout>
