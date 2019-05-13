@@ -68,6 +68,7 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
                 dataSend.putInt("Correct",correctAnswer);
                 intent.putExtras(dataSend);
                 startActivity(intent);
+                question_text.setTextColor(Color.parseColor("#DF0F0F"));
                 finish();
             }
             scoreTxt.setText(String.format("%d",score));
