@@ -53,7 +53,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="center_horizontal"
-                    android:textColor="@mipmap/ic_launcher"
                     android:text="0"
                     android:textSize="30sp"
                     android:textColor="#000000"/>
@@ -64,7 +63,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="center_horizontal"
-                    android:textColor="@mipmap/ic_launcher"
                     android:text="0"
                     android:textSize="30sp"
                     android:textColor="#000000"/>
@@ -85,7 +83,7 @@
                 android:background="@drawable/btn"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
@@ -95,7 +93,7 @@
                 android:background="@drawable/btn"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
@@ -105,7 +103,7 @@
                 android:background="@drawable/btn"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
@@ -115,7 +113,7 @@
                 android:background="@drawable/btn"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
