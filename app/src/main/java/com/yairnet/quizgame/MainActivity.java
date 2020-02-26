@@ -1,13 +1,14 @@
 package com.yairnet.quizgame;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.annotation.NonNull;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.support.annotation.NonNull;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.database.DataSnapshot;
