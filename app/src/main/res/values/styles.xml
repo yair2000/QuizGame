@@ -8,12 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="MyButton" parent="Theme.AppCompat.Light">
-        <item name="colorControlHighlight">#dce21a</item>
-    </style>
-
-    <style name="Theme" parent="Theme.AppCompat.DayNight">
-        <item name="colorControlHighlight">#ee00ff</item>
-    </style>
-
 </resources>
