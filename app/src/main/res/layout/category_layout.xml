@@ -15,8 +15,8 @@
         android:id="@+id/nameCategory"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/btn"
-        android:textColor="#ffffff"
+        android:background="@color/ctrColor"
+        android:textColor="#000000"
         android:textSize="24sp"
         android:gravity="center"
         android:layout_alignParentBottom="true"/>
