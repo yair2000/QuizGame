@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.TextView;
+import android.widget.Button;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -19,7 +19,7 @@ import java.util.Collections;
 // Starting the game
 public class StartActivity extends AppCompatActivity
 {
-    TextView playBtn;
+    Button playBtn;
     FirebaseDatabase database;
     DatabaseReference questions;
 
@@ -33,7 +33,7 @@ public class StartActivity extends AppCompatActivity
 
         loadQuestion(Common.categoryId);
 
-        playBtn = (TextView)findViewById(R.id.playBtn);
+        playBtn = (Button)findViewById(R.id.playBtn);
 
         playBtn.setOnClickListener(new View.OnClickListener(){
 

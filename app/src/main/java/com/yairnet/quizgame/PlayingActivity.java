@@ -6,6 +6,7 @@ import android.graphics.Color;
 import android.os.CountDownTimer;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
@@ -24,7 +25,7 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
 
     ProgressBar progress;
     ImageView question_image;
-    TextView btnA, btnB, btnC, btnD;
+    Button btnA, btnB, btnC, btnD;
     TextView scoreTxt, questionNumTxt, question_text;
 
     @Override
@@ -40,10 +41,10 @@ public class PlayingActivity extends AppCompatActivity implements View.OnClickLi
         progress = (ProgressBar)findViewById(R.id.progress);
 
         // Buttons
-        btnA = (TextView)findViewById(R.id.answerAbtn);
-        btnB = (TextView)findViewById(R.id.answerBbtn);
-        btnC = (TextView)findViewById(R.id.answerCbtn);
-        btnD = (TextView)findViewById(R.id.answerDbtn);
+        btnA = (Button)findViewById(R.id.answerAbtn);
+        btnB = (Button)findViewById(R.id.answerBbtn);
+        btnC = (Button)findViewById(R.id.answerCbtn);
+        btnD = (Button)findViewById(R.id.answerDbtn);
 
         btnA.setOnClickListener(this);
         btnB.setOnClickListener(this);
