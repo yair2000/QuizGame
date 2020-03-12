@@ -81,7 +81,7 @@
             <Button
                 android:id="@+id/answerAbtn"
                 android:background="@color/ansColor"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:textAlignment="center"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -91,7 +91,7 @@
             <Button
                 android:id="@+id/answerBbtn"
                 android:background="@color/ansColor"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:textAlignment="center"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -101,7 +101,7 @@
             <Button
                 android:id="@+id/answerCbtn"
                 android:background="@color/ansColor"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:textAlignment="center"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -111,7 +111,7 @@
             <Button
                 android:id="@+id/answerDbtn"
                 android:background="@color/ansColor"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:textAlignment="center"
                 android:gravity="center"
                 android:layout_width="match_parent"
