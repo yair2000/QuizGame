@@ -22,15 +22,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <TextView
+        <Button
             android:id="@+id/playBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:background="@drawable/btn"
+            android:background="@color/playColor"
             android:text="Begin"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
             android:textAlignment="center"
             style="@style/Widget.AppCompat.Button.Borderless"/>
     </androidx.cardview.widget.CardView>
