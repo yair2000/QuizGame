@@ -66,22 +66,20 @@
                 android:layout_margin="8dp"
                 android:weightSum="2">
 
-                <TextView
+                <Button
                     android:id="@+id/signUpBtn"
-                    android:background="@drawable/btn"
                     android:text="Create Account"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:textAlignment="center"
                     android:gravity="center"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"/>
 
-                <TextView
+                <Button
                     android:id="@+id/signInBtn"
-                    android:background="@drawable/btn"
                     android:text="Start Playing"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:textAlignment="center"
                     android:gravity="center"
                     android:layout_width="0dp"
