@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="txtFieldColor">#0000FF</color>
+    <color name="regColor">#E1DEDE</color>
+    <color name="logColor">#E1DEDE</color>
+    <color name="ctrColor">#E1DEDE</color>
+    <color name="playColor">#E1DEDE</color>
+    <color name="ansColor">#E1DEDE</color>
+    <color name="finalColor">#E1DEDE</color>
     <color name="appBarColor">#FFFFFF</color>
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#000000</color>
