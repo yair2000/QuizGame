@@ -78,9 +78,9 @@
                 android:layout_marginRight="8dp"
                 android:max="7"/>
 
-            <TextView
+            <Button
                 android:id="@+id/answerAbtn"
-                android:background="@drawable/btn"
+                android:background="@color/ansColor"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center"
@@ -88,9 +88,9 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
 
-            <TextView
+            <Button
                 android:id="@+id/answerBbtn"
-                android:background="@drawable/btn"
+                android:background="@color/ansColor"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center"
@@ -98,9 +98,9 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
 
-            <TextView
+            <Button
                 android:id="@+id/answerCbtn"
-                android:background="@drawable/btn"
+                android:background="@color/ansColor"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center"
@@ -108,9 +108,9 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"/>
 
-            <TextView
+            <Button
                 android:id="@+id/answerDbtn"
-                android:background="@drawable/btn"
+                android:background="@color/ansColor"
                 android:textColor="#ffffff"
                 android:textAlignment="center"
                 android:gravity="center"
