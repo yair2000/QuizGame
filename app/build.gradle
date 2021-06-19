@@ -21,14 +21,14 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation 'com.firebaseui:firebase-ui-database:7.1.1' // Firebase UI library
+    implementation 'com.firebaseui:firebase-ui-database:7.2.0' // Firebase UI library
     implementation 'com.squareup.picasso:picasso:2.5.2' // Picasso library
     implementation 'com.google.firebase:firebase-core:19.0.0'
     implementation 'com.google.firebase:firebase-database:20.0.0'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     implementation 'androidx.cardview:cardview:1.0.0'
     implementation 'com.google.android.material:material:1.3.0'
-    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.appcompat:appcompat:1.3.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     testImplementation 'junit:junit:4.13.2'
